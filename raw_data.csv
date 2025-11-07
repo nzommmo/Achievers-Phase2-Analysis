@@ -1,0 +1,1001 @@
+Transaction_ID,User_ID,Transaction_Date,Amount,Category,Payment_Method,Merchant_Name,Location,Income_Monthly,Savings_Contribution,Debt_or_Credit_Usage,Balance_After_Transaction,Transaction_Notes,extra_info
+3381,1049078,5/1/2021,57839.73,Rent,cash,"",London,165489.02,15.38,"",1065.83,Uber ride,random text
+7380,1049078,3/31/2020,96311.82,Entertainment,Crypto,Starbucks,Tokyo,104644.32,1.33,y,-1012.17,Lunch at Java,random text
+6209,1049078,9/7/2020,50986.52,Food,PayPal,"",Nairobi,109144.65,0.52,No,9286.86,Lunch at Java,random text
+6807,1048781,3/16/2021,58386.44,Others,cash,"",London,86930.13,1.0,N/A,-7875.68,Lunch at Java,null
+3488,1049078,7/29/2021,58775.6,Transport,Credit card,Target,New York,181928.5,81.22,null,-3796.33,Paid rent,random text
+5177,1049433,5/9/2020,30335.51,Entertainment,Credit card,Target,London,96187.89,86.7,N/A,-7745.94,Shopping,null
+8919,1049433,12/15/2020,3586.08,Education,M-Pesa,"","",84524.34,62.22,Yes,4214.77,Shopping,null
+7502,1049433,12/12/2020,33160.28,Others,Bank Transfer,"",Tokyo,96069.59,30.09,n,-1414.47,Shopping,null
+8795,1048879,10/31/2021,72281.43,Transport,M-Pesa,Walmart,London,159877.89,74.96,"",-6374.18,Paid rent,null
+4610,1052079,8/28/2020,53214.64,Rent,PayPal,Starbucks,Nairobi,137457.4,56.11,N/A,2927.94,Lunch at Java,random text
+4603,1048781,5/3/2020,16785.41,Shopping,cash,Starbucks,"",75145.13,2.09,"",-865.13,Uber ride,null
+5738,1052079,4/1/2021,30466.57,Shopping,Crypto,Amazon,New York,78340.87,75.0,y,2228.27,Shopping,random text
+7872,1049078,3/14/2020,96192.1,Transport,PayPal,"",New York,19619.25,58.42,No,-373.9,Lunch at Java,random text
+2412,1052079,10/24/2020,51170.39,Food,Crypto,"",New York,138199.22,22.25,"",9980.47,Shopping,random text
+9109,1049078,1/13/2020,84196.67,Healthcare,Debit Card,Starbucks,Nairobi,70724.05,72.27,n,1864.25,Shopping,random text
+5508,1048781,4/15/2021,55210.82,Rent,Crypto,"",Nairobi,178838.48,84.48,n,-4353.46,Uber ride,random text
+2121,1048879,7/15/2021,26138.44,Others,M-Pesa,Walmart,Nairobi,118060.83,19.7,N/A,8069.59,Shopping,random text
+5131,1049433,6/9/2020,76326.77,Transport,Bank Transfer,Walmart,London,23127.99,0.04,No,7959.34,Shopping,random text
+7093,1049433,4/30/2021,39422.68,Food,Crypto,Target,"",170549.02,99.54,n,-9874.92,Paid rent,random text
+5433,1049433,1/12/2021,62108.09,Rent,Debit Card,"",Tokyo,158318.42,25.97,"",-9590.72,Uber ride,random text
+3175,1048781,9/8/2020,80479.41,Healthcare,PayPal,"",London,120311.98,83.26,Yes,5733.92,Uber ride,null
+6223,1048781,11/18/2021,86922.98,Shopping,Bank Transfer,Target,Nairobi,191853.12,72.14,y,7724.42,Paid rent,null
+6525,1048781,6/25/2021,27857.08,Shopping,Credit card,Amazon,London,23439.79,98.23,Yes,-4430.04,Uber ride,null
+3530,1049078,11/19/2020,17397.65,Education,Bank Transfer,Walmart,London,20359.25,3.98,No,5874.57,Lunch at Java,null
+9227,1052079,4/28/2020,41361.1,Rent,cash,Walmart,Nairobi,48169.41,36.44,Yes,-3784.98,Uber ride,null
+9041,1048781,5/17/2021,67525.13,Shopping,M-Pesa,"",New York,137341.0,48.09,Yes,-3473.32,Lunch at Java,null
+1757,1048879,1/12/2020,39419.12,Education,Crypto,Walmart,New York,121045.26,10.85,n,-4074.17,Lunch at Java,random text
+4421,1048781,5/7/2021,35876.12,Education,cash,Starbucks,London,191241.72,8.64,n,2187.32,Paid rent,null
+8513,1052079,6/16/2020,30217.11,Shopping,M-Pesa,Walmart,Tokyo,143116.01,45.34,null,7909.36,Lunch at Java,null
+4044,1048781,6/13/2020,95093.28,Food,Debit Card,Amazon,Nairobi,196603.7,46.74,"",3272.07,Lunch at Java,random text
+1259,1048879,6/22/2020,21697.18,Bills,PayPal,Walmart,Nairobi,38434.48,57.9,n,-5229.21,Paid rent,random text
+7388,1048879,12/26/2020,5312.82,Education,Crypto,Walmart,New York,123120.67,8.92,n,-9734.12,Lunch at Java,random text
+6373,1048781,10/4/2021,70543.21,Entertainment,M-Pesa,Walmart,London,184082.51,50.86,N/A,-4402.94,Paid rent,null
+4748,1049078,9/7/2020,92062.59,Food,Bank Transfer,Target,New York,153755.35,38.79,n,6359.86,Uber ride,random text
+4557,1052079,3/12/2021,62640.29,Healthcare,Bank Transfer,Amazon,London,94643.74,89.14,N/A,-3172.04,Uber ride,null
+2012,1049433,3/12/2020,33545.17,Entertainment,Debit Card,"",Nairobi,184926.56,6.2,n,9009.29,Shopping,null
+2105,1048879,6/7/2020,76447.49,Rent,cash,Walmart,Tokyo,115390.14,95.55,No,6266.18,Uber ride,null
+5887,1048879,7/1/2020,63994.2,Food,Crypto,Walmart,Tokyo,107294.74,47.52,Yes,-7125.76,Lunch at Java,random text
+2801,1048879,3/12/2020,23886.0,Healthcare,Crypto,Target,Nairobi,191252.48,77.78,"",-7239.13,Uber ride,null
+4379,1049078,9/20/2020,67443.74,Shopping,PayPal,Walmart,New York,114606.85,20.69,n,-1776.81,Paid rent,random text
+8978,1048879,6/24/2020,97763.63,Shopping,Crypto,Walmart,Nairobi,168623.57,82.73,y,1218.9,Shopping,null
+2434,1049078,8/12/2021,48094.65,Shopping,Bank Transfer,"","",171727.25,65.55,"",6221.19,Paid rent,random text
+8065,1049433,7/29/2021,89963.48,Rent,Credit card,"",New York,13879.36,57.86,No,-7710.75,Uber ride,random text
+9749,1049078,12/5/2021,76773.4,Rent,Debit Card,Target,New York,98087.51,34.79,N/A,-7353.9,Paid rent,random text
+1042,1048879,2/11/2020,63729.88,Education,M-Pesa,"",Nairobi,124425.6,8.66,y,8787.81,Uber ride,random text
+3673,1052079,9/5/2021,97261.15,Entertainment,Credit card,Amazon,New York,66531.51,99.25,n,-4063.89,Shopping,null
+7538,1048879,8/11/2020,90500.22,Healthcare,Bank Transfer,Starbucks,"",26473.9,60.25,"",-1975.25,Uber ride,random text
+2101,1048879,11/16/2021,16059.57,Entertainment,PayPal,"",Nairobi,54435.71,78.2,n,-8639.13,Lunch at Java,null
+1748,1049078,11/10/2020,7533.42,Food,Debit Card,Starbucks,London,174356.21,78.7,y,8925.67,Lunch at Java,random text
+8573,1052079,10/19/2021,98898.1,Entertainment,cash,"",London,58102.89,59.22,n,5115.39,Shopping,random text
+2937,1049433,2/5/2020,19195.56,Transport,Bank Transfer,Target,"",34420.68,87.42,No,-1607.4,Uber ride,null
+1416,1049078,5/22/2020,34040.25,Entertainment,PayPal,Starbucks,New York,61145.17,5.77,N/A,-3462.0,Uber ride,random text
+1539,1052079,11/18/2020,92039.78,Food,M-Pesa,"",Tokyo,194821.96,74.97,null,4367.5,Shopping,null
+5369,1049433,7/5/2020,8278.77,Entertainment,Bank Transfer,Target,Nairobi,88380.57,2.85,n,-7768.11,Uber ride,null
+7172,1049433,8/29/2021,61592.67,Rent,Credit card,Starbucks,Tokyo,193604.69,13.98,y,-4812.71,Lunch at Java,null
+2052,1049433,3/11/2021,35299.4,Entertainment,Debit Card,"",London,36018.34,84.75,n,-3113.08,Lunch at Java,null
+6032,1049433,12/31/2020,19826.64,Entertainment,Credit card,Target,Tokyo,123777.15,9.68,null,-5690.79,Uber ride,random text
+1303,1048781,10/5/2020,74619.21,Entertainment,cash,Target,Nairobi,151339.37,19.19,N/A,-5601.85,Shopping,null
+6026,1049078,3/11/2021,37739.33,Others,cash,"",New York,17124.62,39.05,y,5488.92,Shopping,null
+7013,1048781,6/1/2020,49158.06,Bills,Crypto,Walmart,"",53270.54,14.73,N/A,5423.89,Uber ride,random text
+9767,1048781,3/22/2021,78097.55,Entertainment,Crypto,"",London,166505.76,57.86,No,9561.17,Uber ride,null
+4605,1048879,3/3/2020,40224.29,Entertainment,Crypto,Starbucks,London,149209.51,20.0,n,7099.22,Paid rent,null
+1005,1048781,12/3/2021,36223.95,Bills,Crypto,Starbucks,"",49500.12,19.92,No,5147.9,Lunch at Java,null
+2954,1048879,1/25/2020,91074.63,Shopping,Bank Transfer,Walmart,Tokyo,59522.42,34.4,N/A,8004.21,Paid rent,random text
+4905,1052079,5/22/2020,64618.45,Healthcare,Debit Card,"",Tokyo,180043.88,14.93,null,-3545.42,Shopping,random text
+9299,1049433,9/20/2021,43612.54,Rent,Credit card,Walmart,"",110228.16,59.41,N/A,-2141.59,Lunch at Java,null
+9195,1049433,12/27/2021,96124.56,Rent,Bank Transfer,Starbucks,London,70442.55,67.11,N/A,-270.17,Lunch at Java,random text
+1521,1049433,12/25/2020,40940.74,Entertainment,Crypto,Target,London,75994.64,5.01,y,-5493.76,Uber ride,random text
+1399,1049078,9/18/2020,50569.63,Shopping,cash,Target,"",33873.52,63.79,Yes,7036.38,Lunch at Java,random text
+6749,1049433,8/27/2021,6012.17,Healthcare,Bank Transfer,"",Tokyo,190670.13,54.14,"",-7007.81,Shopping,random text
+9244,1049078,6/27/2020,86025.3,Rent,Credit card,"",Tokyo,13127.08,22.19,Yes,1191.08,Shopping,null
+3546,1052079,3/22/2021,51525.41,Education,Credit card,Starbucks,New York,198869.17,72.24,y,-2130.33,Shopping,null
+1562,1049433,12/30/2021,77669.98,Others,Debit Card,"",New York,114627.07,30.8,y,-6195.49,Lunch at Java,random text
+1167,1048879,8/4/2020,81838.47,Healthcare,PayPal,Amazon,Tokyo,109575.06,50.18,n,2149.84,Lunch at Java,random text
+2966,1048879,2/11/2020,19742.56,Shopping,M-Pesa,"",New York,181308.61,71.69,No,-9723.4,Lunch at Java,random text
+7007,1048781,1/6/2020,49571.75,Food,Debit Card,Walmart,"",142792.49,41.6,y,-4838.82,Lunch at Java,random text
+9398,1048781,3/5/2020,13598.53,Healthcare,Debit Card,Target,Tokyo,103476.05,67.16,n,334.44,Uber ride,null
+2256,1048879,7/31/2021,97434.18,Bills,Bank Transfer,Target,New York,175021.31,32.07,No,2967.92,Uber ride,null
+2861,1049078,12/27/2021,91931.1,Rent,Crypto,Walmart,Tokyo,168259.59,14.36,Yes,-132.96,Uber ride,null
+3436,1049078,2/28/2020,83031.27,Transport,M-Pesa,Target,Tokyo,108020.41,67.94,n,1155.49,Uber ride,random text
+9030,1049433,7/12/2020,48013.38,Food,M-Pesa,Starbucks,Nairobi,37518.42,55.83,No,9205.38,Lunch at Java,random text
+8983,1049078,4/22/2020,54007.66,Entertainment,Debit Card,Target,New York,39091.05,88.47,N/A,-103.88,Lunch at Java,random text
+2965,1048879,8/29/2020,98549.96,Rent,cash,"",New York,132760.94,38.92,"",6109.75,Shopping,random text
+9476,1049433,1/22/2021,5586.38,Shopping,Bank Transfer,Target,Nairobi,147258.85,71.12,Yes,2372.51,Lunch at Java,null
+6069,1048879,7/14/2021,1973.21,Others,cash,Target,"",106169.5,24.32,y,-6929.39,Lunch at Java,null
+6707,1052079,8/29/2021,9111.3,Healthcare,M-Pesa,Amazon,Tokyo,12664.45,60.75,"",7431.53,Shopping,random text
+8369,1048781,5/1/2020,41881.11,Rent,Debit Card,Amazon,New York,75541.39,42.37,No,3621.48,Paid rent,null
+8492,1048879,11/21/2020,95449.18,Rent,Bank Transfer,"",New York,192887.35,18.31,N/A,-3480.1,Shopping,null
+3977,1049433,1/27/2021,38654.39,Rent,M-Pesa,Starbucks,London,43288.88,40.78,"",1070.06,Uber ride,random text
+9150,1048879,5/3/2021,76355.38,Others,M-Pesa,"",Tokyo,89407.98,88.27,No,4706.45,Uber ride,null
+4232,1048781,6/5/2021,73656.38,Rent,M-Pesa,Walmart,New York,194136.03,54.44,N/A,2285.68,Lunch at Java,null
+9153,1048781,11/18/2020,51490.37,Shopping,PayPal,"",London,130022.29,72.32,No,-7156.28,Uber ride,null
+7286,1048781,10/5/2020,78545.41,Transport,M-Pesa,Starbucks,New York,75828.89,39.56,null,-9401.06,Paid rent,null
+5086,1049078,11/22/2021,34176.43,Entertainment,Bank Transfer,"","",104147.59,96.77,Yes,8711.79,Shopping,random text
+9387,1049433,12/3/2021,73592.43,Bills,cash,Target,New York,156421.27,28.37,n,3898.51,Shopping,null
+1845,1052079,10/17/2020,86580.99,Healthcare,M-Pesa,"",Nairobi,131821.32,71.21,No,-9232.02,Uber ride,null
+1157,1052079,9/15/2020,42484.16,Food,Bank Transfer,Walmart,"",21876.65,16.66,Yes,-1079.29,Uber ride,random text
+9910,1048781,9/21/2021,51752.66,Food,Debit Card,Target,Nairobi,132288.57,63.43,N/A,-3759.41,Shopping,random text
+5550,1049433,9/21/2021,89302.41,Bills,Crypto,Starbucks,London,49279.01,80.4,Yes,-3482.6,Paid rent,null
+4421,1048781,3/8/2021,48534.17,Food,Bank Transfer,Target,New York,69540.63,70.7,"",4964.92,Paid rent,null
+5625,1049433,12/29/2020,5835.69,Rent,Debit Card,Starbucks,New York,178950.0,86.02,No,840.14,Lunch at Java,null
+4073,1049433,11/18/2021,434.67,Food,Credit card,Walmart,Nairobi,167660.78,93.79,Yes,-1747.78,Uber ride,random text
+9772,1052079,11/27/2020,56876.85,Healthcare,PayPal,Walmart,New York,50361.87,21.09,y,-9984.79,Shopping,random text
+3718,1048879,9/24/2021,61766.42,Bills,Crypto,Walmart,Nairobi,103896.55,83.44,No,1861.32,Paid rent,random text
+6605,1049433,12/4/2021,95433.28,Food,Crypto,Target,New York,185109.73,83.96,No,-4081.82,Uber ride,null
+5780,1049078,3/31/2021,87900.25,Entertainment,Crypto,Walmart,"",64173.4,12.22,n,-6532.03,Paid rent,null
+3161,1049433,11/27/2020,23065.2,Shopping,Crypto,"",Nairobi,152520.02,32.26,"",3928.09,Paid rent,random text
+9794,1049433,12/17/2021,73616.3,Food,Debit Card,Walmart,New York,29387.0,14.69,Yes,67.9,Paid rent,null
+6867,1048879,10/6/2020,88013.41,Education,Crypto,Target,New York,23113.19,95.65,No,6961.29,Lunch at Java,random text
+6950,1049078,8/28/2021,48673.14,Entertainment,PayPal,Target,London,109476.97,33.39,No,4093.53,Uber ride,random text
+3386,1052079,2/7/2021,62638.94,Transport,Bank Transfer,Starbucks,"",105586.68,34.96,n,3601.42,Paid rent,random text
+4880,1049078,1/6/2021,69489.08,Bills,Debit Card,Amazon,London,170115.86,62.26,y,-6568.08,Uber ride,null
+5729,1052079,8/2/2021,37161.47,Shopping,Credit card,Walmart,Tokyo,102185.93,44.77,null,-1243.91,Shopping,null
+1924,1052079,3/24/2021,37094.26,Rent,PayPal,"",Nairobi,35160.18,47.85,"",6994.43,Lunch at Java,null
+2828,1049433,11/17/2020,93443.57,Entertainment,M-Pesa,Starbucks,London,134000.02,34.28,Yes,-3441.98,Uber ride,null
+9488,1052079,5/12/2020,76640.2,Shopping,Crypto,Amazon,"",168299.34,18.65,y,-4519.55,Paid rent,random text
+6602,1049078,9/30/2020,75712.29,Rent,Debit Card,Walmart,Nairobi,98397.66,29.2,null,6261.18,Paid rent,null
+2114,1049433,11/20/2021,5633.19,Rent,Crypto,Walmart,New York,192525.38,6.53,N/A,1620.19,Uber ride,random text
+9741,1049433,10/22/2021,15611.3,Entertainment,Credit card,Walmart,New York,109882.84,3.98,n,-3519.6,Lunch at Java,random text
+6033,1052079,3/8/2021,25362.91,Shopping,Credit card,Target,New York,189186.08,88.53,Yes,-3838.26,Shopping,null
+7010,1048879,10/4/2021,20253.5,Healthcare,cash,Walmart,Tokyo,168288.96,25.95,n,595.98,Lunch at Java,random text
+7328,1048879,9/4/2020,5539.17,Entertainment,M-Pesa,Walmart,"",87335.97,82.72,null,3166.41,Uber ride,random text
+8158,1048781,11/19/2020,48905.33,Others,Bank Transfer,Walmart,New York,145522.47,67.34,null,3242.03,Lunch at Java,random text
+5406,1049078,5/17/2021,16663.94,Transport,cash,Amazon,New York,45266.64,62.63,null,-754.69,Lunch at Java,random text
+5664,1048781,1/26/2021,25916.52,Healthcare,M-Pesa,Walmart,Tokyo,140398.6,23.71,No,9128.15,Lunch at Java,null
+3468,1048781,9/27/2020,91258.7,Rent,PayPal,Target,Nairobi,169314.75,14.36,N/A,7551.03,Lunch at Java,null
+8933,1049078,9/6/2021,99353.95,Entertainment,Credit card,"",London,196115.04,65.27,No,7553.26,Shopping,null
+8534,1049078,4/1/2020,40712.59,Others,Bank Transfer,Starbucks,New York,52700.98,40.9,n,6665.85,Lunch at Java,null
+3632,1052079,3/9/2021,92641.91,Shopping,PayPal,Amazon,New York,75358.85,17.55,null,6757.12,Uber ride,null
+8205,1049433,7/7/2020,77482.19,Transport,Bank Transfer,Walmart,Tokyo,90414.7,42.21,null,-9171.35,Uber ride,null
+3025,1049078,9/22/2020,23794.47,Transport,cash,Starbucks,Tokyo,190344.98,87.04,N/A,-1483.05,Uber ride,random text
+7817,1048879,8/15/2020,66369.3,Shopping,M-Pesa,Starbucks,"",33209.62,89.71,y,6335.81,Uber ride,random text
+7902,1048879,10/9/2021,49550.71,Healthcare,M-Pesa,Walmart,London,172831.74,34.24,No,9182.72,Paid rent,null
+2524,1049433,3/5/2021,96291.26,Shopping,Bank Transfer,Target,Tokyo,64862.43,97.01,n,9914.19,Uber ride,null
+5477,1049078,9/27/2020,71344.52,Healthcare,Bank Transfer,Target,London,57690.65,92.09,No,-1767.24,Paid rent,random text
+8852,1049433,2/26/2020,1366.08,Healthcare,Bank Transfer,Walmart,Tokyo,62275.68,29.46,n,5223.1,Paid rent,null
+2729,1049433,8/19/2020,39816.68,Shopping,Credit card,Walmart,Nairobi,86413.07,75.41,n,5232.74,Lunch at Java,null
+2381,1052079,3/9/2021,77293.02,Education,Credit card,Target,Nairobi,185653.71,79.58,"",9088.42,Paid rent,random text
+5930,1048879,7/2/2021,6124.49,Others,Debit Card,"",Tokyo,119066.57,63.21,N/A,8274.6,Paid rent,null
+6672,1048781,12/5/2020,13551.1,Bills,Debit Card,Amazon,"",28037.06,69.56,Yes,-7584.11,Lunch at Java,random text
+7109,1048781,1/23/2021,67927.72,Transport,Crypto,Walmart,Tokyo,150293.25,35.45,Yes,933.3,Uber ride,random text
+9439,1048879,12/17/2020,43294.35,Education,cash,Starbucks,"",19949.82,18.34,y,2784.41,Paid rent,random text
+4840,1049433,3/18/2021,27161.86,Bills,Debit Card,Amazon,New York,63419.63,31.21,y,-6552.96,Lunch at Java,random text
+1095,1048781,9/5/2020,11347.49,Food,Credit card,"",London,143055.5,33.06,No,-8097.25,Lunch at Java,null
+6130,1052079,1/24/2020,87.3,Bills,Credit card,Amazon,Nairobi,178236.7,4.98,null,-467.67,Paid rent,random text
+9566,1048879,10/27/2020,21250.29,Others,cash,Amazon,Nairobi,76180.76,1.13,N/A,-6250.43,Lunch at Java,null
+6754,1052079,10/14/2020,67850.7,Entertainment,cash,Walmart,Tokyo,192917.4,74.87,null,9722.67,Uber ride,null
+7487,1052079,10/6/2021,57634.55,Shopping,Crypto,Target,New York,74379.97,15.5,No,-9027.67,Uber ride,null
+9052,1049078,12/2/2020,28284.06,Transport,Credit card,Amazon,London,55559.11,36.1,n,-9948.02,Lunch at Java,random text
+7072,1048781,9/28/2021,38223.29,Transport,M-Pesa,Amazon,Tokyo,124749.85,8.75,Yes,-3425.64,Paid rent,null
+2312,1052079,12/25/2021,82535.87,Others,Crypto,Target,London,187380.66,42.81,Yes,7630.3,Lunch at Java,random text
+6708,1049433,3/31/2020,35036.58,Entertainment,Crypto,"","",99249.28,23.17,null,2147.54,Lunch at Java,null
+7653,1048879,7/18/2020,95857.02,Bills,Crypto,Target,Nairobi,185387.37,80.2,N/A,712.89,Paid rent,random text
+4433,1048781,12/12/2021,17359.23,Healthcare,PayPal,Amazon,Nairobi,49379.51,35.22,Yes,-5711.02,Lunch at Java,random text
+3807,1048879,11/24/2021,16302.92,Shopping,cash,Starbucks,Tokyo,180894.58,39.15,y,-6703.31,Uber ride,null
+1834,1052079,12/4/2021,4017.27,Bills,PayPal,Amazon,Tokyo,117127.46,29.58,"",-5339.79,Lunch at Java,random text
+7978,1048781,3/28/2021,26879.23,Shopping,Crypto,Starbucks,New York,58765.48,31.46,N/A,2248.73,Paid rent,random text
+8814,1049078,5/15/2020,77214.4,Entertainment,Credit card,Target,New York,112141.14,67.03,Yes,3456.26,Uber ride,null
+3937,1049433,2/19/2020,63267.57,Education,Credit card,Starbucks,"",134598.0,30.51,Yes,938.49,Shopping,random text
+1002,1052079,5/16/2021,46916.97,Entertainment,M-Pesa,Starbucks,Tokyo,44542.69,49.11,null,-1308.3,Shopping,random text
+2933,1052079,7/1/2021,48922.3,Shopping,Crypto,Starbucks,"",163217.65,3.22,Yes,5240.79,Shopping,null
+8489,1048879,8/28/2021,46605.69,Food,cash,Target,Tokyo,25923.89,74.65,No,-8563.21,Paid rent,null
+4985,1048781,2/20/2021,35287.11,Education,Debit Card,Walmart,Nairobi,111314.79,99.02,Yes,-6920.29,Lunch at Java,null
+1411,1048781,4/8/2020,77040.95,Transport,Credit card,"","",23705.77,6.94,No,-2564.62,Paid rent,null
+2939,1049078,4/4/2021,1306.76,Others,M-Pesa,Amazon,New York,111084.12,80.68,n,-1143.68,Shopping,random text
+5423,1048781,7/14/2020,62463.78,Education,PayPal,Target,London,176407.45,77.98,N/A,-5805.85,Uber ride,null
+1483,1048781,4/3/2021,61867.64,Healthcare,Credit card,Walmart,London,195748.96,29.86,N/A,-8273.76,Paid rent,random text
+9641,1049433,7/27/2021,45427.58,Education,Bank Transfer,"",New York,140512.47,21.26,y,419.41,Shopping,null
+6135,1049078,9/18/2020,18147.21,Entertainment,Crypto,Starbucks,Tokyo,102862.55,62.78,No,8386.02,Paid rent,null
+6303,1052079,8/3/2020,71956.11,Others,Bank Transfer,Amazon,Tokyo,196717.79,75.4,N/A,-7092.5,Lunch at Java,null
+1562,1048781,8/1/2020,13176.89,Shopping,M-Pesa,"",London,100198.41,37.92,null,1507.92,Shopping,random text
+3413,1048879,10/19/2021,4044.91,Shopping,Bank Transfer,Starbucks,London,142641.79,30.16,y,3713.23,Shopping,null
+1744,1049078,1/7/2021,785.31,Others,Debit Card,"",New York,164123.46,83.65,N/A,1523.96,Shopping,null
+8145,1049078,1/6/2020,31033.62,Bills,Crypto,Starbucks,London,36579.2,89.46,y,2832.14,Paid rent,null
+7577,1049433,8/8/2021,29261.19,Others,M-Pesa,Target,Tokyo,24228.34,66.49,Yes,-700.62,Paid rent,random text
+3827,1048879,11/21/2021,28380.44,Education,Credit card,Walmart,Nairobi,61632.98,78.37,n,3076.58,Lunch at Java,null
+1550,1048781,1/23/2020,46493.41,Entertainment,PayPal,"",New York,171635.47,57.49,N/A,2699.28,Paid rent,random text
+9343,1049078,5/12/2020,83183.41,Bills,cash,Starbucks,Nairobi,100352.31,53.44,N/A,1485.41,Shopping,null
+4627,1049433,3/31/2020,32130.56,Education,Bank Transfer,Amazon,New York,17731.98,8.14,No,-4780.64,Uber ride,random text
+4313,1049433,1/18/2021,92678.9,Shopping,Debit Card,Amazon,Nairobi,34012.64,83.78,N/A,-5425.88,Shopping,null
+3070,1052079,12/22/2021,58014.39,Rent,Credit card,Starbucks,Tokyo,169592.0,14.55,N/A,-1032.5,Uber ride,null
+1498,1049433,11/5/2021,69913.4,Entertainment,Debit Card,Amazon,Nairobi,193539.89,84.18,y,8745.41,Paid rent,random text
+3366,1052079,2/28/2021,68925.44,Bills,Debit Card,Amazon,"",64179.27,97.07,y,200.29,Uber ride,random text
+9439,1048879,3/20/2020,2859.61,Transport,Credit card,Target,New York,39761.91,66.53,null,8509.79,Lunch at Java,null
+2395,1052079,5/15/2020,9947.13,Healthcare,M-Pesa,Amazon,"",38803.76,96.01,Yes,-4555.18,Shopping,random text
+4100,1052079,4/16/2021,14702.94,Shopping,Bank Transfer,Target,London,89619.79,94.99,No,4954.45,Lunch at Java,random text
+7710,1048879,10/6/2021,69253.15,Entertainment,M-Pesa,"",New York,108671.49,20.19,n,-7771.56,Shopping,null
+4095,1049078,3/5/2020,61774.62,Shopping,Debit Card,Amazon,London,122881.27,39.23,y,8825.47,Paid rent,random text
+7103,1048879,9/20/2021,88076.0,Rent,M-Pesa,Starbucks,Nairobi,148445.11,18.34,"",7046.0,Lunch at Java,null
+1877,1049078,1/30/2020,90655.46,Shopping,Crypto,Target,Nairobi,168818.41,20.47,No,7965.81,Paid rent,random text
+3049,1048879,12/13/2021,3106.35,Education,PayPal,Target,Nairobi,149330.91,58.06,Yes,514.46,Uber ride,random text
+5740,1052079,1/15/2020,53874.04,Entertainment,Crypto,Amazon,Tokyo,134667.38,40.98,null,8364.66,Uber ride,null
+9473,1052079,8/3/2020,46335.53,Bills,Credit card,Walmart,London,98825.23,72.94,n,-8264.11,Paid rent,random text
+7699,1048879,5/18/2020,26977.65,Shopping,Crypto,Walmart,London,62008.37,83.68,No,-2189.51,Shopping,random text
+8699,1052079,3/22/2020,34159.27,Entertainment,Credit card,Starbucks,"",160628.89,11.3,N/A,689.84,Paid rent,random text
+8465,1048781,11/26/2021,71742.89,Others,M-Pesa,Starbucks,London,181793.38,1.5,"",-6477.24,Shopping,random text
+7422,1048781,10/28/2020,9750.7,Rent,cash,Amazon,"",117855.75,16.88,y,-7782.62,Uber ride,null
+7544,1049433,12/22/2021,55095.67,Healthcare,PayPal,Walmart,"",20932.62,17.27,null,8328.25,Paid rent,random text
+9336,1052079,5/16/2021,19104.5,Transport,Debit Card,Target,Tokyo,197900.37,21.92,null,-9879.13,Uber ride,random text
+6852,1049433,9/18/2021,83545.01,Entertainment,Crypto,Amazon,Tokyo,146570.77,76.6,null,7309.52,Uber ride,null
+2731,1048781,11/13/2021,83763.5,Shopping,Debit Card,"",Nairobi,107425.12,75.01,"",836.78,Lunch at Java,null
+5612,1048879,10/14/2020,7983.86,Others,Bank Transfer,Target,"",136673.0,16.11,N/A,-1970.15,Shopping,random text
+2049,1049078,2/26/2020,28623.7,Bills,PayPal,Amazon,"",135443.09,91.42,Yes,-9741.7,Shopping,random text
+8145,1049078,9/13/2021,50607.72,Food,Credit card,"",Tokyo,47654.9,6.58,"",-2297.6,Paid rent,random text
+5011,1049433,5/29/2020,87282.8,Transport,Credit card,Target,Nairobi,165278.0,99.94,N/A,-8991.51,Paid rent,random text
+1527,1052079,4/13/2020,98778.49,Transport,cash,"",Nairobi,127108.08,61.98,"",4935.68,Shopping,random text
+7073,1049078,2/7/2021,97127.34,Food,Bank Transfer,Amazon,Nairobi,71674.76,36.03,N/A,7084.96,Uber ride,null
+3521,1052079,5/12/2020,20480.92,Entertainment,M-Pesa,Amazon,"",21545.51,56.4,No,-4959.49,Uber ride,null
+7723,1049433,8/12/2020,22952.01,Rent,Bank Transfer,Walmart,New York,155321.73,37.87,Yes,7460.66,Paid rent,null
+7437,1052079,11/14/2020,86345.51,Entertainment,PayPal,Target,London,27916.96,88.51,No,-5238.9,Paid rent,null
+9608,1052079,1/6/2021,45464.51,Education,Crypto,Target,Nairobi,170887.66,59.95,Yes,-8959.14,Paid rent,null
+5322,1052079,9/14/2020,29176.2,Food,Crypto,"",London,137778.19,38.88,y,-7353.83,Paid rent,null
+1333,1049433,3/3/2020,25079.47,Healthcare,Debit Card,Target,London,85478.0,18.45,Yes,-2072.48,Uber ride,random text
+2566,1048781,9/21/2021,5.64,Entertainment,Credit card,Target,New York,51116.38,57.35,No,8540.0,Shopping,null
+8947,1048879,9/25/2020,2769.75,Bills,Crypto,Target,Nairobi,196105.19,46.64,Yes,-9886.57,Shopping,random text
+4137,1049078,8/9/2021,66614.74,Entertainment,Debit Card,Target,"",94105.07,77.51,n,-8376.41,Shopping,random text
+7946,1048781,7/25/2021,96642.28,Transport,cash,"","",29225.9,52.52,No,-8924.71,Shopping,random text
+3946,1048879,9/18/2021,69586.85,Shopping,PayPal,Amazon,New York,35254.03,53.41,Yes,8369.64,Lunch at Java,null
+6556,1049433,3/23/2020,99427.26,Bills,M-Pesa,Walmart,New York,182056.87,55.82,No,2406.13,Shopping,random text
+6286,1048781,5/27/2020,32156.25,Education,Debit Card,Target,New York,182233.32,29.65,Yes,4665.91,Shopping,null
+7981,1049078,9/14/2020,82514.72,Bills,Credit card,Amazon,New York,146001.41,85.14,N/A,-7787.75,Lunch at Java,null
+2502,1052079,10/5/2021,27906.25,Rent,Debit Card,"",Nairobi,135399.56,44.69,null,8747.57,Uber ride,random text
+6950,1052079,10/23/2021,1399.0,Food,Bank Transfer,Walmart,London,148433.45,0.53,y,5172.96,Paid rent,null
+5136,1049433,3/20/2021,4623.18,Transport,Crypto,Target,"",172813.85,32.81,N/A,-7748.57,Paid rent,random text
+4436,1048781,6/30/2021,48879.6,Healthcare,Credit card,Starbucks,"",126238.43,65.47,N/A,-1785.75,Paid rent,random text
+9983,1049078,11/27/2020,17874.7,Entertainment,Bank Transfer,Amazon,"",26338.74,41.29,"",8651.98,Paid rent,random text
+8515,1052079,7/2/2020,63721.72,Education,Credit card,"",London,33654.96,30.27,null,-3341.5,Shopping,random text
+6277,1049433,9/30/2021,41098.24,Bills,Crypto,Walmart,Nairobi,73646.44,41.61,N/A,7060.07,Shopping,null
+4496,1048781,9/23/2021,41252.28,Food,M-Pesa,Amazon,Nairobi,173039.9,0.89,y,-2980.98,Lunch at Java,random text
+8020,1052079,10/23/2021,4973.66,Food,Bank Transfer,Starbucks,London,107540.2,56.04,"",2586.37,Uber ride,null
+3658,1049078,5/12/2020,84085.91,Education,Crypto,Starbucks,Tokyo,119621.67,90.68,n,3366.36,Paid rent,null
+4293,1052079,11/16/2020,40615.09,Entertainment,cash,"",New York,196339.17,67.4,No,-4775.26,Uber ride,random text
+6275,1048879,10/16/2021,90663.52,Rent,Debit Card,Starbucks,Nairobi,88738.52,91.19,null,-6425.23,Lunch at Java,null
+8430,1049433,7/4/2020,30724.79,Bills,Debit Card,Amazon,"",178466.44,60.39,y,9847.09,Lunch at Java,null
+7219,1048781,3/23/2020,60208.1,Rent,Crypto,Starbucks,Tokyo,162750.51,90.32,n,-4632.82,Shopping,null
+5311,1048879,4/12/2021,79912.35,Transport,Crypto,Target,London,169208.12,87.18,N/A,-4141.6,Uber ride,random text
+2458,1049433,2/8/2020,46180.32,Shopping,Credit card,Amazon,New York,191149.32,68.79,null,-4337.16,Paid rent,null
+9028,1049078,3/24/2021,10065.24,Transport,PayPal,"","",145305.06,29.27,Yes,377.55,Lunch at Java,null
+8876,1052079,10/25/2020,55811.04,Healthcare,Bank Transfer,Walmart,Tokyo,182361.58,14.22,"",4444.58,Shopping,null
+5707,1048879,6/24/2020,42774.79,Healthcare,Crypto,Starbucks,London,75638.81,81.7,null,-4759.29,Shopping,random text
+9493,1049078,12/9/2021,78804.64,Bills,Credit card,"",New York,56678.7,71.72,No,-7310.74,Uber ride,random text
+3363,1049078,12/31/2020,34937.38,Entertainment,cash,Walmart,New York,129681.85,52.53,n,2950.02,Uber ride,random text
+6919,1049078,5/21/2020,62671.98,Bills,M-Pesa,Walmart,Nairobi,82854.88,41.35,N/A,3508.97,Paid rent,null
+8695,1048879,5/10/2020,99106.08,Rent,Debit Card,Walmart,Nairobi,64507.57,83.82,Yes,-4784.15,Shopping,null
+7414,1052079,9/5/2021,20605.56,Education,Crypto,Amazon,"",29263.83,97.5,"",6160.61,Paid rent,null
+7381,1049433,9/6/2020,473.04,Transport,Credit card,Target,Tokyo,76691.91,19.55,null,2369.99,Paid rent,random text
+4711,1049433,7/18/2020,85197.33,Bills,Bank Transfer,Target,New York,155894.92,83.55,y,4080.26,Lunch at Java,random text
+3237,1052079,7/20/2020,11688.53,Food,M-Pesa,Target,"",125824.73,71.13,Yes,4234.28,Lunch at Java,null
+1283,1052079,2/27/2020,11504.17,Transport,Bank Transfer,Walmart,Tokyo,76306.29,9.77,null,-5747.43,Lunch at Java,random text
+2433,1049078,11/13/2021,87742.52,Education,cash,Walmart,Tokyo,196736.98,3.36,n,-6896.58,Shopping,null
+2665,1049433,7/12/2020,5040.36,Shopping,PayPal,Walmart,Tokyo,20906.13,82.83,Yes,7889.09,Uber ride,null
+1653,1048879,4/11/2021,88274.52,Entertainment,cash,"",Nairobi,179259.09,76.62,"",1590.63,Uber ride,random text
+1390,1049078,2/26/2020,85154.62,Others,Credit card,"",London,70829.9,47.49,null,6884.71,Shopping,null
+2412,1048879,5/18/2020,36604.54,Shopping,Crypto,Target,Nairobi,43293.73,41.2,n,8224.1,Shopping,random text
+7387,1048781,11/27/2020,60993.75,Healthcare,PayPal,Target,Nairobi,43932.23,94.62,y,-9921.31,Lunch at Java,random text
+6457,1049433,8/10/2020,3505.09,Healthcare,Bank Transfer,Walmart,New York,185543.54,57.96,null,-8374.38,Uber ride,random text
+2301,1048879,2/23/2021,9096.1,Food,Bank Transfer,Target,Tokyo,73572.86,39.98,n,-4537.49,Shopping,random text
+1502,1052079,2/12/2021,42608.86,Bills,Credit card,Starbucks,Nairobi,45815.95,71.98,No,-9854.43,Uber ride,null
+8594,1048879,8/13/2021,77181.65,Bills,PayPal,Amazon,Nairobi,77933.62,64.34,Yes,1175.22,Paid rent,random text
+5749,1048781,6/13/2020,49432.9,Entertainment,PayPal,"",London,165831.02,99.86,y,9187.61,Lunch at Java,random text
+3346,1048879,7/21/2021,64489.4,Rent,cash,Starbucks,Tokyo,181364.68,28.68,y,6296.23,Paid rent,random text
+5364,1048781,3/4/2021,26982.82,Food,M-Pesa,Starbucks,Tokyo,126169.49,56.34,null,-563.35,Uber ride,random text
+3833,1048781,8/11/2021,14496.22,Food,Debit Card,"",New York,95316.4,62.31,N/A,7732.15,Lunch at Java,random text
+1889,1048879,12/10/2021,48576.04,Shopping,cash,"",Tokyo,110835.24,97.57,"",3307.31,Lunch at Java,null
+2629,1048879,10/4/2021,16467.5,Rent,Debit Card,"",Tokyo,72323.47,43.96,n,-333.25,Uber ride,random text
+7660,1049433,3/12/2020,21365.09,Bills,M-Pesa,Starbucks,London,69548.9,91.63,null,-2280.72,Paid rent,null
+3775,1049433,1/30/2021,17406.74,Rent,PayPal,Walmart,New York,165162.01,85.23,y,166.47,Paid rent,random text
+8922,1049433,9/20/2021,92952.25,Others,Bank Transfer,Target,London,177528.67,38.71,y,-6416.19,Lunch at Java,random text
+4238,1048781,4/18/2020,3733.54,Others,Credit card,"",London,146148.2,84.88,n,7871.26,Uber ride,random text
+8583,1052079,5/14/2020,56876.89,Education,Debit Card,"",New York,59953.16,72.4,y,6691.34,Uber ride,null
+1828,1052079,3/26/2020,56266.94,Shopping,Crypto,Walmart,Nairobi,36522.31,89.44,n,9243.92,Lunch at Java,null
+9622,1048879,6/28/2021,68662.02,Others,M-Pesa,Walmart,New York,122564.71,99.28,n,7943.47,Uber ride,random text
+1868,1048879,4/25/2021,10622.65,Entertainment,Crypto,"",London,134586.57,34.37,null,2623.7,Uber ride,null
+3893,1049433,3/11/2020,26505.52,Education,Crypto,Target,New York,71011.91,14.08,N/A,2897.81,Lunch at Java,null
+3058,1049078,4/3/2021,54948.11,Education,Credit card,Starbucks,Nairobi,97714.19,13.61,y,9274.99,Lunch at Java,random text
+7824,1049433,1/18/2020,55938.16,Bills,PayPal,Target,New York,104422.55,68.15,N/A,-3134.9,Lunch at Java,random text
+5945,1049078,3/22/2021,83718.62,Shopping,PayPal,"",London,114784.41,19.76,Yes,3499.09,Paid rent,random text
+9616,1049433,7/3/2021,65655.21,Food,PayPal,"",Nairobi,15869.53,4.14,N/A,-286.61,Lunch at Java,null
+6587,1052079,9/2/2020,59842.94,Education,cash,Amazon,Tokyo,141490.53,39.22,"",375.33,Lunch at Java,random text
+6258,1048781,6/28/2021,73438.48,Others,Bank Transfer,"","",53622.25,70.23,y,-4844.31,Shopping,null
+9189,1049078,9/11/2020,95380.61,Bills,M-Pesa,"",Nairobi,191658.63,41.48,null,-4801.79,Uber ride,null
+4044,1049078,3/26/2020,77667.08,Shopping,PayPal,Walmart,"",125070.2,44.39,No,-4686.14,Paid rent,null
+7091,1052079,12/14/2020,3001.28,Others,Debit Card,Target,New York,18735.41,70.15,N/A,5248.99,Lunch at Java,null
+1969,1048781,8/20/2021,28667.31,Healthcare,Debit Card,Amazon,"",83165.96,50.85,null,9895.81,Shopping,null
+6639,1048879,10/2/2021,42610.61,Shopping,cash,Amazon,London,160147.2,65.46,n,-3243.81,Lunch at Java,random text
+7007,1049078,1/21/2021,62548.42,Shopping,Debit Card,Amazon,London,26431.72,75.2,Yes,-4831.48,Shopping,null
+9464,1052079,3/25/2020,94470.63,Education,Crypto,Target,Nairobi,130875.29,53.23,"",-2999.47,Uber ride,random text
+6029,1048879,4/6/2020,7265.14,Bills,PayPal,Amazon,"",66890.06,82.82,N/A,-1116.33,Uber ride,random text
+6149,1048781,7/20/2021,72383.94,Others,cash,Walmart,London,59690.93,81.66,null,-8407.35,Uber ride,random text
+2174,1048879,12/4/2020,25409.52,Rent,PayPal,Starbucks,Nairobi,90290.26,8.9,"",5618.92,Paid rent,null
+1407,1048879,10/22/2021,56874.43,Shopping,M-Pesa,Amazon,Tokyo,164913.32,30.04,y,9440.81,Uber ride,null
+1734,1052079,8/28/2020,10569.39,Shopping,Crypto,Walmart,"",192013.28,37.64,n,8661.97,Uber ride,null
+5076,1049433,6/24/2020,62454.15,Bills,PayPal,"",Nairobi,117520.49,33.18,n,9888.63,Lunch at Java,null
+6555,1049078,3/19/2020,72864.7,Food,M-Pesa,Target,"",168382.69,5.75,No,-2265.92,Paid rent,random text
+8287,1049433,6/26/2021,28738.36,Education,M-Pesa,Target,Nairobi,176153.91,12.08,Yes,-5821.18,Uber ride,random text
+9445,1048781,2/14/2021,28617.88,Transport,cash,Amazon,Tokyo,40882.22,24.42,y,-6022.13,Shopping,random text
+1631,1049433,10/10/2021,78148.74,Shopping,Credit card,"",Tokyo,108494.51,1.14,null,-551.06,Paid rent,null
+9320,1048781,3/14/2021,55010.54,Education,PayPal,"",London,169277.66,40.12,y,2412.82,Lunch at Java,null
+6624,1049433,9/20/2020,67856.83,Transport,cash,"",Nairobi,164505.92,75.7,N/A,-9599.38,Shopping,random text
+9472,1049433,9/25/2020,30142.3,Transport,Crypto,Amazon,Tokyo,123328.31,48.85,No,6077.02,Lunch at Java,random text
+5772,1052079,3/5/2021,88219.22,Healthcare,cash,"",Tokyo,167742.29,5.34,y,2407.6,Shopping,random text
+2411,1048879,6/7/2020,97729.66,Rent,M-Pesa,"",London,22925.46,5.65,null,2591.27,Uber ride,random text
+1054,1048781,5/14/2020,6089.21,Education,Debit Card,Amazon,London,106005.04,73.0,No,-1695.84,Uber ride,null
+8321,1049078,4/23/2020,74943.17,Healthcare,PayPal,Target,Nairobi,39279.56,95.91,y,2766.13,Paid rent,null
+1558,1048879,1/13/2021,1089.97,Food,Debit Card,Walmart,Tokyo,185869.66,90.41,"",9834.41,Lunch at Java,random text
+1475,1052079,2/23/2021,64282.59,Others,Credit card,"",London,33297.49,57.91,No,-4958.23,Paid rent,random text
+9561,1049078,8/22/2021,29848.37,Shopping,M-Pesa,Amazon,"",133893.57,42.68,No,105.04,Uber ride,random text
+3532,1052079,6/7/2021,22474.13,Transport,PayPal,Target,London,151913.2,48.92,Yes,-9003.37,Paid rent,null
+7816,1048781,9/22/2021,31504.04,Bills,PayPal,Amazon,Tokyo,17424.85,72.69,No,9007.08,Uber ride,random text
+2317,1052079,9/2/2020,15590.04,Shopping,PayPal,Amazon,Nairobi,161454.41,72.85,n,916.74,Lunch at Java,null
+9231,1049433,7/30/2021,19118.0,Bills,Crypto,Amazon,Nairobi,112919.09,82.83,N/A,-5553.46,Paid rent,null
+3649,1049433,6/19/2021,94615.15,Healthcare,Debit Card,Amazon,Nairobi,74749.92,13.42,No,1001.03,Lunch at Java,null
+6683,1052079,7/17/2020,13868.83,Healthcare,Bank Transfer,Walmart,"",107172.82,39.56,n,9039.67,Paid rent,null
+5491,1049078,1/14/2020,70822.94,Others,Crypto,Walmart,New York,147687.88,90.73,n,6638.87,Lunch at Java,random text
+3864,1052079,2/23/2020,74171.01,Bills,Credit card,Walmart,New York,145317.18,48.0,"",4914.33,Shopping,null
+7980,1048781,5/1/2021,25673.99,Education,Crypto,Walmart,London,59724.86,97.1,Yes,4018.83,Paid rent,null
+4231,1049078,8/9/2020,61041.64,Education,Crypto,Walmart,"",66594.47,47.63,n,7859.3,Shopping,null
+9074,1049433,12/8/2021,18086.48,Shopping,Credit card,Starbucks,New York,79070.46,18.47,"",-2426.82,Paid rent,random text
+8476,1048879,7/2/2021,16015.18,Shopping,M-Pesa,Starbucks,London,175494.12,5.7,null,521.23,Shopping,null
+5849,1052079,3/29/2020,81002.28,Food,Crypto,Target,Tokyo,57167.95,40.95,Yes,-8051.16,Paid rent,null
+3372,1049433,9/27/2021,73054.22,Shopping,Credit card,"",Nairobi,157720.34,14.26,Yes,-4426.12,Uber ride,null
+6150,1049433,10/20/2020,45170.33,Education,Bank Transfer,Amazon,Tokyo,45105.58,93.22,"",8495.11,Uber ride,random text
+7734,1049433,3/19/2020,45030.0,Transport,PayPal,"",London,39187.4,67.58,N/A,-2558.0,Shopping,null
+1820,1052079,3/28/2020,47744.8,Shopping,Crypto,Amazon,Nairobi,87470.13,29.06,Yes,8065.62,Shopping,null
+3269,1049433,6/11/2021,15732.29,Shopping,cash,Target,Tokyo,108896.19,14.5,n,3318.62,Uber ride,null
+1848,1049078,9/9/2020,49073.35,Rent,Bank Transfer,Target,London,143607.83,94.3,No,4971.99,Lunch at Java,null
+5562,1052079,10/17/2021,80097.26,Education,cash,"",Tokyo,185762.06,87.17,No,-9349.99,Uber ride,random text
+5058,1048781,7/18/2020,45573.45,Transport,M-Pesa,Amazon,London,185558.13,28.85,n,5303.5,Shopping,random text
+8197,1048781,1/31/2020,72101.1,Entertainment,Debit Card,Walmart,Nairobi,83886.82,80.54,"",4417.86,Uber ride,random text
+2632,1048781,4/4/2020,34080.73,Food,Debit Card,Amazon,London,71811.13,16.58,Yes,7293.08,Paid rent,random text
+4169,1048781,9/1/2020,28969.88,Healthcare,Credit card,Amazon,"",95544.44,38.37,No,-3692.13,Shopping,null
+4541,1048879,1/30/2020,93363.36,Transport,Debit Card,"","",179140.58,24.12,N/A,-1511.01,Paid rent,null
+7048,1052079,1/8/2020,53676.07,Education,Bank Transfer,Walmart,London,131729.48,14.29,n,9888.48,Shopping,null
+5479,1052079,1/4/2021,20366.01,Shopping,Bank Transfer,Starbucks,New York,15568.07,75.9,N/A,-8324.9,Shopping,null
+9883,1049433,2/26/2021,78123.57,Transport,Debit Card,Amazon,New York,75987.88,90.16,No,9699.09,Shopping,null
+6834,1049078,9/27/2020,60195.91,Transport,Crypto,"","",164183.89,55.87,n,2182.16,Paid rent,null
+2921,1049078,4/17/2021,17727.78,Education,cash,Amazon,"",51801.34,39.48,"",1332.22,Lunch at Java,null
+9609,1048781,12/21/2020,86515.88,Shopping,Bank Transfer,Starbucks,New York,178190.94,82.37,y,1253.42,Lunch at Java,random text
+1916,1049433,7/29/2020,71393.67,Healthcare,Bank Transfer,Starbucks,New York,65084.6,32.27,Yes,-1949.3,Shopping,null
+5145,1049078,3/7/2020,48469.35,Bills,Crypto,Target,London,16124.18,9.98,y,1652.83,Shopping,random text
+5192,1048781,7/12/2020,48208.97,Shopping,Crypto,"","",195150.14,76.69,Yes,688.69,Lunch at Java,random text
+9639,1052079,5/12/2020,64754.94,Rent,Debit Card,Target,"",177314.15,51.42,Yes,4626.95,Uber ride,random text
+2192,1048781,5/1/2021,9077.94,Education,Crypto,Target,New York,151814.45,6.77,n,-9095.86,Uber ride,random text
+2673,1052079,1/10/2021,82191.31,Shopping,Credit card,Walmart,Tokyo,179769.47,45.81,null,-2829.79,Lunch at Java,random text
+4384,1048879,6/15/2020,56046.05,Bills,Crypto,Amazon,Nairobi,108266.81,1.47,null,8772.87,Lunch at Java,random text
+9421,1048879,7/2/2021,57782.17,Entertainment,Debit Card,Starbucks,London,51822.56,14.45,Yes,9437.54,Lunch at Java,random text
+1620,1049078,4/13/2021,87986.72,Entertainment,Credit card,Walmart,London,169739.94,17.91,N/A,4590.97,Lunch at Java,random text
+2311,1049078,1/10/2021,83509.57,Healthcare,Credit card,Target,"",101612.84,45.07,y,-3676.05,Paid rent,null
+3672,1049433,6/18/2021,31020.1,Others,Crypto,Starbucks,"",136235.73,55.62,No,-8721.91,Shopping,random text
+9593,1049078,5/30/2021,84136.75,Transport,cash,Target,Tokyo,128828.9,21.49,"",-3264.9,Uber ride,null
+4544,1048781,7/8/2021,23229.34,Entertainment,Crypto,"",New York,15094.2,60.23,No,1651.23,Paid rent,null
+9495,1052079,5/20/2020,16682.45,Food,Credit card,Amazon,"",45978.34,4.19,y,-1829.71,Shopping,random text
+1938,1048781,3/4/2020,22849.51,Others,cash,Walmart,Tokyo,161695.79,73.89,N/A,2678.17,Lunch at Java,null
+2893,1048879,1/3/2021,80244.31,Bills,M-Pesa,Amazon,Nairobi,36950.02,90.52,"",-5079.85,Shopping,random text
+6440,1049078,10/14/2020,3589.97,Shopping,Credit card,Starbucks,London,93480.6,33.52,Yes,2810.77,Lunch at Java,null
+7776,1048879,2/8/2021,94842.96,Entertainment,Bank Transfer,Walmart,Nairobi,117958.39,84.06,null,7165.72,Paid rent,random text
+5594,1048879,1/13/2020,39750.96,Transport,Bank Transfer,Target,Nairobi,27056.56,59.45,"",-9079.52,Uber ride,null
+6382,1049078,1/22/2020,18960.33,Education,cash,"",London,51171.5,80.87,Yes,9733.25,Uber ride,null
+2053,1049433,7/11/2021,17390.23,Education,PayPal,Amazon,Tokyo,63815.56,47.44,n,-8555.12,Uber ride,null
+1968,1048781,10/14/2021,45109.88,Shopping,Bank Transfer,Starbucks,Tokyo,87427.33,69.24,null,-1528.42,Shopping,null
+8341,1052079,10/14/2020,87124.86,Shopping,Crypto,Target,Nairobi,31386.85,20.63,"",-3117.39,Uber ride,null
+5355,1049433,9/1/2021,134.39,Others,PayPal,Starbucks,Nairobi,160053.21,23.73,Yes,7370.06,Lunch at Java,random text
+3894,1052079,2/23/2020,45774.73,Rent,M-Pesa,Amazon,Nairobi,46851.75,40.96,null,8336.16,Uber ride,random text
+3964,1052079,5/29/2021,4108.03,Transport,cash,Starbucks,Nairobi,128816.09,85.42,No,6803.64,Uber ride,null
+9096,1049078,8/4/2020,14803.71,Education,Credit card,Amazon,Tokyo,67059.29,51.67,Yes,-8871.64,Uber ride,random text
+7199,1049078,2/17/2021,96469.31,Transport,M-Pesa,Target,"",15115.25,2.55,n,6762.7,Lunch at Java,null
+9160,1052079,4/1/2021,21265.51,Bills,Bank Transfer,Starbucks,Nairobi,85276.04,47.24,null,3781.28,Uber ride,random text
+9871,1048781,3/4/2021,62705.51,Rent,Bank Transfer,Walmart,New York,16968.1,45.4,y,-9345.14,Shopping,null
+4037,1048781,7/1/2020,52344.17,Bills,cash,Starbucks,"",60885.18,54.21,n,-5615.62,Paid rent,null
+1789,1048781,11/19/2020,86824.85,Education,Bank Transfer,Amazon,"",51676.21,88.2,y,-1593.89,Lunch at Java,random text
+2428,1052079,10/1/2020,51900.01,Rent,M-Pesa,Walmart,Tokyo,14972.64,98.08,y,-5082.7,Shopping,random text
+8468,1049078,7/23/2020,26545.69,Healthcare,Bank Transfer,"",Tokyo,101403.47,2.99,null,-3438.18,Uber ride,random text
+2394,1048879,8/15/2020,54788.56,Healthcare,M-Pesa,Starbucks,Tokyo,68635.24,77.82,y,-3967.41,Uber ride,null
+5892,1049078,12/23/2021,41390.91,Education,Crypto,Starbucks,London,64405.88,29.13,"",-1184.72,Shopping,random text
+4367,1049078,6/2/2020,45711.05,Healthcare,cash,Starbucks,Tokyo,88836.69,37.17,Yes,1775.69,Paid rent,null
+8889,1048781,6/1/2020,44105.94,Others,Bank Transfer,"",Tokyo,130707.55,91.83,n,-6109.16,Paid rent,null
+9530,1052079,1/1/2021,8491.87,Education,cash,Walmart,"",195473.58,67.29,n,-9718.93,Uber ride,null
+4328,1052079,9/24/2020,52354.64,Shopping,Debit Card,Starbucks,Nairobi,79372.35,40.75,No,2441.44,Lunch at Java,random text
+6853,1049433,11/22/2020,6190.47,Transport,Crypto,Amazon,London,50773.09,64.81,N/A,-2282.55,Lunch at Java,null
+4384,1049433,2/28/2020,88614.49,Shopping,Credit card,Starbucks,London,144786.82,87.81,y,-9313.83,Lunch at Java,null
+7624,1049078,11/14/2020,89687.79,Shopping,Credit card,"","",90348.31,76.25,null,3000.57,Paid rent,null
+7495,1048781,9/1/2021,51739.61,Shopping,Credit card,Starbucks,New York,199306.49,43.3,N/A,2881.7,Paid rent,random text
+3796,1048879,11/27/2021,46665.82,Healthcare,Debit Card,"","",186000.5,27.14,n,4580.93,Lunch at Java,null
+5148,1048879,12/24/2020,11363.96,Education,Bank Transfer,Amazon,Tokyo,155461.89,81.08,"",3093.99,Paid rent,random text
+6170,1052079,7/8/2021,31781.51,Education,cash,Starbucks,"",26097.47,87.54,Yes,6836.09,Lunch at Java,random text
+8680,1048879,2/14/2020,47512.49,Healthcare,cash,Target,Tokyo,152272.09,10.28,y,-7556.68,Uber ride,null
+7153,1048879,9/20/2020,35963.59,Shopping,Crypto,Starbucks,London,167324.08,69.59,No,-8187.99,Uber ride,random text
+9875,1048781,9/27/2020,21688.16,Others,PayPal,"",Tokyo,134875.51,81.26,null,2755.18,Lunch at Java,null
+3775,1049078,10/23/2021,65715.66,Others,M-Pesa,Amazon,Nairobi,129030.31,4.96,"",472.0,Uber ride,null
+9339,1048879,7/22/2020,46884.65,Entertainment,PayPal,Amazon,"",89150.71,86.57,"",8668.31,Uber ride,null
+1881,1048879,4/22/2021,46168.79,Rent,M-Pesa,Starbucks,"",185126.39,81.51,Yes,7434.84,Shopping,random text
+3203,1049078,9/25/2021,64795.59,Education,PayPal,"",Tokyo,56300.09,54.27,No,-6014.02,Uber ride,random text
+4573,1049078,7/14/2021,39445.6,Rent,Crypto,Amazon,"",30843.32,63.76,No,2478.25,Uber ride,null
+2920,1049078,2/10/2021,22673.91,Others,Credit card,Walmart,Nairobi,105323.24,22.49,N/A,7974.96,Shopping,random text
+1364,1049078,4/9/2021,55484.72,Healthcare,Credit card,"",Nairobi,17371.79,69.31,No,-6808.87,Paid rent,null
+7378,1052079,1/7/2020,99058.87,Others,Credit card,Target,Nairobi,75504.47,84.91,"",-7964.52,Lunch at Java,null
+7162,1048879,7/24/2020,62401.88,Food,Bank Transfer,Walmart,London,171489.67,60.44,"",7820.8,Uber ride,null
+8048,1052079,3/13/2021,15459.76,Shopping,Credit card,"",New York,173493.39,71.73,null,-6937.46,Shopping,null
+6844,1048781,2/18/2020,88052.79,Shopping,cash,Target,"",178748.32,80.95,Yes,8698.6,Lunch at Java,random text
+4816,1052079,2/7/2020,65139.37,Others,cash,"","",72274.41,30.76,null,-9618.98,Lunch at Java,null
+2788,1048879,4/11/2020,75301.79,Shopping,M-Pesa,Walmart,Nairobi,16051.84,31.99,No,2027.11,Paid rent,random text
+5235,1048781,3/26/2020,50416.69,Entertainment,cash,Starbucks,Tokyo,181092.67,98.32,null,6775.92,Lunch at Java,random text
+4984,1048879,2/5/2021,17122.37,Shopping,Crypto,Amazon,Nairobi,85041.25,41.13,n,-3378.55,Shopping,random text
+2021,1052079,3/22/2020,28109.93,Entertainment,Debit Card,Amazon,New York,137955.44,67.47,N/A,-5384.58,Uber ride,random text
+2187,1052079,3/9/2021,89416.37,Rent,Bank Transfer,"",London,28107.73,34.69,Yes,-7602.35,Paid rent,null
+5102,1049078,11/15/2021,97748.05,Food,Debit Card,"",London,125342.84,13.15,y,-3285.79,Uber ride,random text
+7582,1048781,7/3/2020,76606.48,Healthcare,M-Pesa,"",Nairobi,176746.49,27.09,N/A,-9132.91,Shopping,random text
+9017,1049433,3/30/2020,66325.32,Food,PayPal,Starbucks,"",73633.65,51.56,null,2148.71,Paid rent,random text
+9003,1052079,9/23/2021,94298.95,Healthcare,cash,"",London,12108.31,88.83,N/A,-2639.03,Uber ride,random text
+1897,1052079,5/7/2021,99159.25,Bills,Bank Transfer,Starbucks,London,111502.63,36.95,n,-2392.05,Lunch at Java,random text
+4495,1049433,10/19/2021,56200.39,Shopping,M-Pesa,Target,Nairobi,46285.05,33.28,N/A,-7790.35,Paid rent,null
+7867,1049078,7/23/2021,94187.02,Entertainment,Credit card,"",Nairobi,171149.55,70.27,"",-4050.05,Lunch at Java,null
+6124,1049078,4/27/2020,7241.48,Food,Credit card,"",Tokyo,150191.46,93.64,N/A,8150.6,Lunch at Java,random text
+4293,1048781,12/6/2020,7488.67,Healthcare,Debit Card,Walmart,Nairobi,116502.71,30.97,n,-6190.35,Paid rent,random text
+2159,1049078,11/18/2020,69888.44,Others,Bank Transfer,"",New York,94892.1,79.44,y,7196.35,Paid rent,null
+1270,1048781,7/8/2021,27038.85,Others,cash,Amazon,London,127996.6,55.95,y,-4210.77,Uber ride,random text
+6431,1048781,12/3/2020,3623.36,Others,M-Pesa,Target,Nairobi,150640.16,50.51,N/A,-8242.82,Paid rent,random text
+8905,1049433,4/24/2021,75853.63,Rent,Debit Card,Walmart,"",150682.94,98.51,Yes,4877.44,Paid rent,null
+5462,1048781,12/23/2021,2607.22,Transport,Crypto,Target,"",113523.49,33.63,No,-4321.15,Uber ride,null
+9374,1048781,11/25/2021,29373.33,Shopping,Credit card,"","",165036.63,45.87,"",3910.45,Paid rent,null
+4278,1049078,11/3/2020,19511.2,Transport,PayPal,Starbucks,Nairobi,47847.78,24.86,N/A,-7618.99,Lunch at Java,random text
+8344,1048781,9/16/2020,18717.08,Transport,Bank Transfer,"",New York,196926.54,18.51,null,-3529.63,Paid rent,random text
+5037,1052079,10/23/2020,50027.36,Transport,PayPal,Amazon,Nairobi,73543.84,6.14,N/A,-7423.47,Shopping,null
+1574,1052079,5/18/2020,41904.16,Healthcare,Crypto,Amazon,Nairobi,55883.22,50.41,N/A,-9341.66,Uber ride,random text
+8649,1052079,5/18/2020,5293.37,Transport,Credit card,Starbucks,New York,197649.52,62.03,"",-8555.6,Lunch at Java,null
+2381,1052079,12/30/2021,80374.5,Others,Crypto,Walmart,London,10219.51,81.99,No,-3048.56,Uber ride,null
+8447,1049433,2/24/2020,12056.79,Transport,Crypto,Target,Tokyo,29305.17,91.36,n,4307.18,Paid rent,random text
+9201,1049078,4/28/2020,10814.63,Entertainment,cash,Target,New York,75818.17,41.2,N/A,-5274.12,Paid rent,random text
+6803,1049433,6/30/2021,29416.36,Transport,PayPal,Amazon,New York,170358.0,0.83,Yes,9661.79,Paid rent,null
+3501,1049433,9/21/2020,82554.01,Rent,cash,"",Tokyo,145304.84,74.01,Yes,-8137.68,Uber ride,null
+6280,1048879,3/18/2020,98768.53,Shopping,cash,Amazon,Tokyo,49648.73,88.6,No,7760.51,Lunch at Java,null
+8440,1048781,6/25/2021,57542.93,Healthcare,Bank Transfer,Starbucks,New York,161437.03,70.68,y,-2801.74,Paid rent,random text
+2038,1052079,7/23/2020,46786.68,Others,Bank Transfer,Starbucks,Tokyo,76879.54,44.14,"",-684.5,Uber ride,null
+8685,1048879,5/5/2021,38674.36,Shopping,Bank Transfer,"",London,59604.98,27.6,"",-3125.41,Paid rent,random text
+7361,1049433,10/14/2020,26821.51,Rent,M-Pesa,"",London,22876.94,40.19,Yes,-8994.8,Uber ride,random text
+3327,1049078,9/22/2020,14559.35,Food,Crypto,"","",19686.08,50.14,N/A,6715.33,Lunch at Java,null
+8179,1049078,2/10/2020,28761.47,Transport,Bank Transfer,Amazon,"",19240.96,78.67,No,-5476.01,Lunch at Java,null
+7512,1048781,8/23/2020,93774.78,Shopping,Crypto,Target,"",162356.13,38.3,"",277.06,Shopping,random text
+6619,1052079,7/14/2021,80833.02,Entertainment,Bank Transfer,Starbucks,Tokyo,83703.64,30.08,N/A,-1808.63,Lunch at Java,random text
+4612,1048879,12/31/2020,51670.91,Bills,cash,"",Tokyo,140045.57,62.39,Yes,-2127.7,Uber ride,null
+9832,1049078,7/18/2021,86003.54,Food,cash,"",New York,57224.04,18.65,Yes,-1588.87,Lunch at Java,random text
+8186,1049078,1/6/2021,99676.56,Others,Debit Card,Walmart,London,48083.8,69.06,y,3948.3,Paid rent,null
+5787,1052079,5/28/2021,17240.68,Bills,M-Pesa,Starbucks,New York,25196.43,44.46,N/A,-1150.05,Uber ride,random text
+4359,1049433,10/4/2020,52780.71,Healthcare,M-Pesa,Amazon,Tokyo,74710.41,93.98,y,-8260.53,Shopping,random text
+1879,1048879,5/15/2021,64569.72,Food,Crypto,Walmart,Nairobi,169127.14,57.1,null,-8259.76,Lunch at Java,null
+2597,1049433,2/11/2021,90691.04,Shopping,Debit Card,Amazon,Nairobi,158827.79,92.23,N/A,8755.0,Uber ride,null
+5772,1049433,6/14/2020,79907.24,Food,Bank Transfer,Target,New York,77310.82,98.62,n,-9238.72,Shopping,null
+3131,1049078,7/8/2020,25742.11,Transport,cash,"",Tokyo,184542.94,16.76,N/A,7788.3,Uber ride,random text
+8539,1049078,9/8/2021,49839.88,Transport,cash,"",Nairobi,31466.03,21.46,No,7383.62,Paid rent,null
+1302,1049433,10/2/2020,47935.94,Entertainment,Crypto,Amazon,Nairobi,110186.43,37.98,Yes,5069.16,Uber ride,random text
+9465,1048781,3/8/2020,41477.48,Shopping,Crypto,Starbucks,London,153829.21,85.28,y,-3184.25,Paid rent,null
+7696,1048879,3/28/2021,81957.46,Bills,M-Pesa,Amazon,Tokyo,128423.57,15.41,null,3615.79,Paid rent,null
+8273,1048879,9/24/2020,37073.26,Education,M-Pesa,"",New York,71101.24,43.44,y,8947.97,Shopping,random text
+4431,1048781,2/28/2021,66680.68,Entertainment,Debit Card,"",Tokyo,23010.45,28.28,Yes,-7499.77,Lunch at Java,null
+3849,1049433,8/27/2021,81533.5,Transport,Debit Card,Starbucks,Nairobi,196861.78,44.1,N/A,-6558.92,Uber ride,null
+3393,1048781,8/30/2020,29777.57,Rent,Bank Transfer,"",New York,114756.92,81.11,N/A,7641.34,Lunch at Java,random text
+4184,1049078,7/17/2020,36697.93,Others,cash,Amazon,Tokyo,22374.75,56.03,n,8055.51,Paid rent,random text
+7454,1048879,9/26/2020,54125.71,Healthcare,Credit card,Starbucks,London,76111.59,8.66,N/A,-4167.87,Paid rent,random text
+1024,1048879,8/3/2020,88296.94,Food,M-Pesa,Starbucks,"",195133.49,86.83,Yes,-4394.36,Paid rent,null
+2109,1049078,1/17/2021,47250.4,Rent,M-Pesa,Target,Tokyo,107422.84,94.77,N/A,-9415.62,Paid rent,null
+3494,1049078,11/14/2021,88843.89,Healthcare,M-Pesa,"",New York,72261.3,64.87,N/A,-8468.86,Shopping,null
+4992,1052079,10/27/2020,28358.27,Rent,M-Pesa,Amazon,Tokyo,53148.6,97.4,null,-2443.22,Paid rent,random text
+7779,1052079,3/20/2020,46915.36,Transport,Bank Transfer,Walmart,London,151205.38,17.28,No,5997.55,Shopping,null
+9930,1052079,8/19/2021,46344.34,Shopping,Credit card,"",Tokyo,72568.49,7.86,Yes,6938.65,Paid rent,null
+7120,1049078,10/17/2021,26518.13,Shopping,Debit Card,"","",108786.73,34.68,No,8863.06,Uber ride,random text
+4553,1048781,11/5/2020,57778.69,Bills,Bank Transfer,Walmart,New York,162919.16,91.35,No,6859.94,Uber ride,random text
+3854,1048879,1/10/2020,15503.48,Bills,Crypto,Starbucks,"",102235.66,19.62,N/A,5369.79,Paid rent,random text
+7043,1052079,4/19/2021,58339.98,Transport,Credit card,Amazon,Nairobi,101260.11,71.33,y,-1564.77,Paid rent,random text
+4528,1049078,9/24/2020,12676.39,Transport,cash,Walmart,New York,10064.13,35.13,N/A,-7274.28,Lunch at Java,random text
+8079,1048781,3/7/2020,85154.99,Rent,Bank Transfer,Amazon,London,108002.87,20.87,n,-9720.33,Lunch at Java,random text
+7081,1048879,3/12/2021,51868.28,Healthcare,Bank Transfer,Amazon,Nairobi,72232.31,95.25,y,-7604.37,Uber ride,null
+9303,1052079,7/23/2021,62941.64,Education,Bank Transfer,Amazon,Nairobi,90702.04,15.53,n,5912.24,Lunch at Java,null
+6513,1049433,8/26/2020,47659.43,Entertainment,Debit Card,Amazon,"",120105.51,22.03,Yes,-2574.46,Lunch at Java,random text
+4217,1048781,5/2/2020,68857.38,Entertainment,Bank Transfer,Walmart,Nairobi,68003.46,91.74,y,-6939.08,Shopping,random text
+2010,1049433,6/29/2020,36171.64,Transport,Bank Transfer,"",New York,131646.97,14.59,"",3924.95,Paid rent,null
+8437,1048781,4/22/2020,20780.83,Healthcare,Debit Card,Starbucks,London,56688.99,51.53,Yes,-1975.82,Paid rent,null
+4653,1049433,6/17/2020,517.78,Bills,Debit Card,Amazon,Tokyo,65316.78,20.78,y,-9282.73,Shopping,random text
+5585,1049078,1/17/2021,76373.1,Rent,M-Pesa,Amazon,London,147848.2,94.76,"",-4608.47,Lunch at Java,null
+7383,1049078,6/26/2020,17026.53,Transport,Bank Transfer,"",Tokyo,171007.73,93.72,n,-1332.1,Shopping,random text
+7245,1052079,5/11/2021,87545.39,Rent,Crypto,Amazon,New York,89717.2,32.45,y,6525.03,Uber ride,random text
+9333,1052079,12/31/2020,30680.44,Others,cash,Starbucks,Tokyo,129671.0,91.49,"",-5254.8,Uber ride,null
+5217,1049078,5/24/2020,39988.45,Transport,PayPal,Starbucks,"",27613.62,28.42,Yes,431.52,Lunch at Java,null
+3867,1049078,5/22/2021,35587.15,Rent,M-Pesa,Walmart,Tokyo,191388.2,31.36,y,-5940.52,Paid rent,random text
+8457,1052079,9/5/2021,27798.45,Others,M-Pesa,"",New York,84754.83,75.47,No,2568.78,Paid rent,random text
+7996,1052079,5/30/2020,49143.16,Healthcare,PayPal,Target,Tokyo,125211.99,58.28,null,8373.87,Paid rent,random text
+8720,1052079,9/14/2020,42421.07,Shopping,cash,Starbucks,Nairobi,94497.92,6.14,"",-4687.23,Paid rent,null
+7089,1052079,3/9/2021,62865.13,Others,Crypto,"",Nairobi,122808.61,48.37,"",6011.72,Paid rent,random text
+5856,1052079,9/24/2020,43904.03,Bills,cash,"","",198569.52,3.49,Yes,-8044.57,Uber ride,null
+1445,1049078,5/30/2021,13637.32,Transport,M-Pesa,Walmart,Nairobi,98625.0,8.64,No,4311.98,Lunch at Java,null
+7942,1049433,1/10/2020,67677.53,Transport,cash,Walmart,New York,179572.29,95.6,n,5051.88,Lunch at Java,random text
+1780,1052079,3/19/2020,81163.79,Bills,cash,Starbucks,Nairobi,164424.44,2.03,n,9837.9,Paid rent,random text
+1258,1049433,9/16/2021,46862.2,Transport,PayPal,"",London,28427.71,63.91,null,6786.09,Lunch at Java,random text
+8415,1048781,11/15/2021,37039.98,Education,Credit card,Target,"",186478.28,59.69,No,9206.36,Uber ride,null
+7282,1052079,2/7/2021,73328.56,Rent,cash,Starbucks,Tokyo,87653.02,80.09,null,8504.59,Lunch at Java,null
+1103,1049078,3/19/2020,7750.74,Food,Debit Card,Target,New York,64952.73,40.44,null,2742.98,Paid rent,random text
+3115,1049078,5/4/2020,79346.14,Healthcare,Debit Card,"",Nairobi,91535.91,80.97,Yes,2649.57,Lunch at Java,random text
+5157,1048781,1/30/2021,13282.62,Shopping,PayPal,Amazon,"",152319.44,21.02,null,-2574.41,Shopping,null
+5011,1049078,12/4/2020,22735.96,Bills,Bank Transfer,Starbucks,New York,54357.02,80.8,Yes,9842.1,Uber ride,random text
+5964,1048781,1/16/2020,58662.98,Food,Crypto,Amazon,Tokyo,185589.86,48.31,null,-6297.08,Uber ride,null
+6189,1049433,10/21/2021,52433.06,Healthcare,Debit Card,Amazon,Nairobi,54150.64,1.77,No,-2522.74,Uber ride,random text
+8439,1052079,3/12/2020,93897.2,Shopping,cash,Starbucks,Nairobi,52124.99,81.87,"",3665.89,Lunch at Java,random text
+5189,1049078,11/23/2021,68864.37,Rent,Debit Card,Walmart,London,111682.43,56.32,null,6530.8,Uber ride,random text
+9553,1052079,1/5/2020,486.44,Education,M-Pesa,Amazon,London,62064.99,54.08,n,-7309.74,Uber ride,null
+9574,1048781,10/22/2020,32140.57,Rent,Credit card,Starbucks,"",39678.56,60.69,"",-1520.18,Shopping,random text
+5493,1049078,12/17/2021,37747.91,Others,Bank Transfer,"","",161073.97,63.03,No,-1009.64,Uber ride,null
+9836,1049078,10/11/2020,86024.38,Others,Debit Card,Target,London,58829.06,51.7,null,9261.47,Uber ride,null
+8069,1049078,4/22/2021,70294.66,Healthcare,cash,Starbucks,"",46739.1,9.18,y,9165.97,Paid rent,random text
+8038,1048879,3/11/2020,27258.64,Food,Bank Transfer,Starbucks,"",126302.46,37.57,n,2661.51,Uber ride,null
+3492,1049433,8/4/2021,9911.64,Education,Debit Card,"","",178892.6,99.78,N/A,1773.01,Uber ride,null
+5454,1052079,1/21/2021,72367.51,Healthcare,M-Pesa,Amazon,Tokyo,105873.1,40.08,null,6901.18,Lunch at Java,null
+7293,1052079,1/5/2020,64751.92,Food,M-Pesa,Walmart,Tokyo,184800.43,68.16,null,-5335.33,Lunch at Java,null
+2997,1048781,7/12/2021,53136.69,Shopping,Debit Card,Starbucks,"",27630.32,82.7,No,-5126.69,Lunch at Java,random text
+5161,1048781,10/12/2021,71157.46,Entertainment,Bank Transfer,Target,Tokyo,130952.86,28.95,No,-6740.85,Paid rent,random text
+7806,1049433,4/11/2021,14814.67,Food,M-Pesa,"",New York,29264.14,93.9,null,-4091.1,Uber ride,null
+7412,1049433,4/15/2020,58756.46,Rent,Crypto,Starbucks,London,28560.22,18.73,N/A,8245.06,Shopping,random text
+9825,1049433,4/15/2020,59092.93,Rent,M-Pesa,Amazon,Nairobi,73765.06,47.07,"",-8578.4,Lunch at Java,random text
+8609,1049433,11/14/2020,43595.6,Shopping,M-Pesa,Starbucks,Nairobi,69168.91,71.97,"",5373.46,Shopping,null
+4744,1048879,1/26/2020,15516.15,Rent,M-Pesa,Target,"",21834.71,82.11,y,-1672.91,Lunch at Java,null
+9402,1052079,5/25/2020,99645.27,Education,PayPal,Target,New York,80397.74,32.78,N/A,5732.79,Lunch at Java,random text
+4490,1049433,10/21/2021,30834.74,Bills,M-Pesa,Target,Nairobi,98693.54,59.22,n,3313.47,Uber ride,null
+7431,1052079,10/3/2021,63504.71,Education,cash,Walmart,New York,140778.17,2.45,y,650.74,Uber ride,null
+2631,1049433,11/15/2021,50295.9,Healthcare,PayPal,Amazon,London,168089.38,12.82,N/A,9671.73,Paid rent,null
+6609,1049433,4/13/2020,19281.41,Healthcare,Debit Card,Amazon,Nairobi,14066.73,55.28,y,8826.23,Uber ride,random text
+1243,1048781,6/2/2020,89720.77,Shopping,Crypto,Target,Tokyo,86002.63,23.94,No,-7883.03,Shopping,null
+4136,1049433,12/7/2021,66458.51,Entertainment,Bank Transfer,Target,London,21779.54,95.44,"",-4115.35,Uber ride,random text
+3470,1049078,5/13/2020,9559.36,Rent,M-Pesa,Walmart,Tokyo,131225.49,87.35,n,-564.56,Uber ride,null
+7207,1048781,9/18/2021,92335.45,Rent,M-Pesa,"",London,119479.98,39.86,n,7858.18,Lunch at Java,random text
+2962,1048879,3/11/2021,36748.16,Entertainment,M-Pesa,"",New York,178994.63,5.6,No,-9083.77,Shopping,random text
+1044,1048781,3/17/2021,488.53,Shopping,M-Pesa,Walmart,Tokyo,82911.08,18.9,"",5613.64,Shopping,random text
+6970,1052079,8/26/2020,19464.93,Education,M-Pesa,Starbucks,Nairobi,145068.35,28.9,N/A,7944.55,Uber ride,null
+9064,1048879,6/7/2020,90373.52,Rent,Debit Card,Target,Nairobi,40826.6,94.0,Yes,9522.09,Shopping,random text
+7074,1048781,7/24/2020,44698.14,Others,Credit card,Walmart,Tokyo,67324.46,54.3,n,-3800.49,Lunch at Java,random text
+9915,1048781,4/11/2020,10882.7,Rent,Crypto,Target,"",35060.15,78.14,N/A,-8172.31,Uber ride,random text
+9962,1049433,1/8/2020,56557.59,Education,Crypto,Target,Nairobi,110812.42,12.27,N/A,-6978.48,Paid rent,random text
+2948,1048781,6/20/2020,64533.81,Bills,Bank Transfer,Starbucks,"",101699.4,39.37,n,-6572.74,Lunch at Java,null
+2441,1049078,2/22/2021,81111.24,Education,Debit Card,"",Tokyo,15837.92,94.35,null,9105.83,Uber ride,random text
+2139,1048879,9/3/2021,43319.07,Healthcare,M-Pesa,Walmart,Nairobi,80983.85,5.6,"",-3689.49,Lunch at Java,null
+3884,1052079,3/20/2020,36678.03,Others,Bank Transfer,Walmart,"",78582.17,31.37,y,8649.86,Lunch at Java,random text
+3948,1048879,1/19/2021,88419.65,Food,Credit card,"","",167040.86,39.85,y,1371.6,Paid rent,null
+3642,1048879,8/2/2021,51578.06,Healthcare,Debit Card,Target,London,126030.36,37.51,y,6000.36,Uber ride,random text
+4302,1049078,2/18/2020,26039.15,Others,Credit card,Starbucks,"",175299.62,60.26,y,7210.84,Lunch at Java,null
+2618,1048879,7/16/2020,66590.73,Bills,PayPal,"",Nairobi,25816.76,20.28,N/A,-2428.76,Uber ride,null
+1479,1049433,7/11/2020,66939.5,Rent,Credit card,Walmart,New York,167889.18,58.25,y,-1130.1,Shopping,random text
+4911,1052079,5/22/2020,40584.15,Education,Credit card,Walmart,Tokyo,14098.39,72.27,y,367.71,Paid rent,random text
+1227,1052079,8/1/2020,70759.84,Bills,Credit card,"",New York,91694.36,34.32,y,6536.09,Shopping,random text
+2553,1048879,10/18/2020,97239.51,Education,Crypto,Target,"",180802.6,0.02,Yes,-2929.18,Lunch at Java,null
+1669,1049433,7/27/2020,57337.85,Others,Debit Card,Walmart,London,11316.71,22.18,"",-9671.17,Lunch at Java,random text
+9550,1049433,4/21/2020,13484.95,Rent,M-Pesa,"",Nairobi,61443.05,40.87,Yes,8425.81,Lunch at Java,null
+5076,1048781,7/7/2021,350.65,Education,Debit Card,"",London,131537.79,41.34,N/A,-9328.28,Paid rent,null
+9585,1048879,11/28/2020,63751.71,Food,cash,Target,"",130714.06,36.29,"",-6621.75,Lunch at Java,null
+4217,1052079,2/25/2021,32896.44,Others,Debit Card,Starbucks,London,66137.28,74.41,"",-5359.27,Lunch at Java,null
+6048,1049078,5/14/2021,76081.32,Bills,cash,Amazon,Nairobi,68291.27,4.69,null,9824.41,Shopping,null
+3936,1049433,12/22/2020,12825.89,Healthcare,cash,Starbucks,New York,27039.83,42.79,Yes,-4996.42,Lunch at Java,null
+5085,1052079,5/9/2020,41518.88,Food,Crypto,"",Nairobi,64039.87,87.22,"",-1640.57,Uber ride,random text
+5523,1049433,2/4/2021,27587.07,Education,cash,Walmart,London,49228.5,26.73,null,-8281.76,Shopping,null
+3456,1052079,4/1/2020,97322.93,Shopping,Bank Transfer,Walmart,Nairobi,128159.39,54.26,n,8161.83,Paid rent,random text
+7459,1052079,4/19/2020,47569.08,Bills,Crypto,Starbucks,"",154852.64,95.79,"",-8416.95,Paid rent,null
+8485,1049433,2/11/2020,80857.92,Entertainment,cash,"",Nairobi,76880.72,66.2,N/A,8062.95,Uber ride,null
+4369,1049078,3/16/2021,24288.54,Entertainment,Credit card,Target,"",100172.46,97.62,N/A,7698.5,Uber ride,random text
+5177,1049433,11/20/2020,67119.7,Education,Bank Transfer,Starbucks,Nairobi,154411.65,78.65,null,-3991.23,Shopping,random text
+5267,1048879,12/27/2021,64754.61,Others,Credit card,"",New York,57590.41,42.04,"",4901.39,Lunch at Java,random text
+9098,1048879,10/29/2020,33291.07,Healthcare,Crypto,Starbucks,New York,128123.29,48.98,"",-2441.34,Paid rent,random text
+2808,1048781,7/19/2021,81123.36,Food,Bank Transfer,Starbucks,"",118930.3,42.44,Yes,-7098.55,Uber ride,random text
+5188,1052079,12/16/2021,47486.72,Education,Bank Transfer,Amazon,Nairobi,188058.89,96.37,N/A,8852.28,Lunch at Java,random text
+1631,1048879,8/6/2020,24768.01,Bills,M-Pesa,Walmart,New York,34537.2,11.19,null,-6195.86,Lunch at Java,random text
+5085,1049078,11/15/2020,85838.33,Healthcare,Debit Card,Walmart,"",75226.57,95.74,No,4534.4,Paid rent,random text
+8338,1049078,8/24/2021,98901.1,Healthcare,Debit Card,Starbucks,"",171489.48,9.72,"",4659.9,Paid rent,random text
+2978,1048781,5/15/2021,47703.7,Rent,Credit card,Starbucks,Tokyo,124901.33,54.3,"",-5678.88,Paid rent,random text
+6363,1052079,10/5/2020,72969.36,Shopping,cash,"",New York,68884.05,98.33,N/A,8161.88,Lunch at Java,random text
+6936,1049078,5/3/2021,49216.88,Education,Credit card,Target,New York,90177.89,13.12,y,-708.35,Paid rent,random text
+4428,1049433,3/25/2020,49323.84,Bills,Bank Transfer,Walmart,London,166387.4,35.1,Yes,-6817.85,Shopping,random text
+4701,1049433,11/19/2020,75946.78,Food,Bank Transfer,Amazon,"",148137.26,33.67,No,9599.48,Paid rent,null
+8109,1049078,10/14/2021,91820.19,Bills,PayPal,"",London,157039.85,91.66,n,-5650.63,Uber ride,random text
+5507,1048781,11/20/2021,2282.01,Bills,Debit Card,Amazon,Tokyo,150233.48,52.58,null,-1648.75,Shopping,random text
+3638,1049078,10/19/2020,34813.56,Education,cash,Target,New York,62034.28,85.87,No,9908.4,Uber ride,random text
+5328,1048781,5/18/2020,4411.34,Food,M-Pesa,"",Nairobi,22753.99,2.83,N/A,-8680.59,Uber ride,null
+5138,1048781,10/3/2020,30321.77,Education,Credit card,Amazon,Tokyo,82978.86,84.94,y,7483.03,Shopping,random text
+7861,1049078,11/4/2020,85585.82,Food,Crypto,Amazon,Tokyo,49484.09,91.28,No,-6138.89,Lunch at Java,null
+3259,1048781,11/21/2021,72299.45,Transport,PayPal,"","",67468.96,18.92,n,6955.73,Paid rent,null
+2348,1049078,3/29/2020,1637.01,Bills,Credit card,Starbucks,Nairobi,132513.43,62.4,N/A,-4676.35,Paid rent,random text
+1852,1048879,10/1/2021,59288.68,Others,M-Pesa,Walmart,"",133907.8,35.12,N/A,-8201.89,Lunch at Java,null
+2564,1048879,8/2/2021,64990.32,Education,M-Pesa,Amazon,London,27648.17,89.5,y,-9300.04,Uber ride,random text
+8565,1049078,7/10/2020,8986.26,Others,cash,Walmart,Tokyo,97488.02,28.35,Yes,-1196.57,Lunch at Java,random text
+3805,1049433,10/28/2020,90581.57,Transport,Bank Transfer,Target,"",97492.91,34.0,"",-5700.06,Shopping,random text
+6310,1048781,10/5/2020,24186.9,Transport,Bank Transfer,Starbucks,London,142024.72,26.18,y,-1929.28,Paid rent,null
+3914,1052079,10/3/2021,3831.75,Education,Crypto,Amazon,"",107021.35,17.79,N/A,6526.12,Paid rent,null
+1085,1052079,2/24/2021,26062.78,Food,cash,Starbucks,New York,186255.11,80.16,y,1938.44,Shopping,random text
+1801,1049078,2/14/2020,73498.14,Healthcare,Bank Transfer,Amazon,London,173048.48,69.73,"",8314.34,Shopping,null
+7472,1052079,5/9/2020,3735.79,Bills,Crypto,Target,Tokyo,169914.39,51.63,Yes,9603.92,Uber ride,null
+1468,1048879,12/12/2020,44752.29,Bills,Bank Transfer,Walmart,New York,66642.01,1.76,null,-2252.23,Shopping,null
+2379,1049078,12/19/2021,38851.97,Education,Credit card,Walmart,New York,18692.02,1.39,y,-8368.66,Paid rent,random text
+6236,1049078,2/18/2020,58251.23,Education,Bank Transfer,Amazon,New York,93324.93,12.81,n,-4511.31,Paid rent,random text
+2045,1052079,3/23/2021,64567.11,Healthcare,Debit Card,Target,London,28777.84,54.9,No,-9890.53,Uber ride,null
+4433,1049078,8/7/2020,75968.24,Transport,PayPal,Starbucks,New York,59192.1,0.6,Yes,745.15,Shopping,random text
+3468,1052079,11/22/2021,18160.89,Entertainment,PayPal,"",Tokyo,23339.16,44.43,N/A,9862.62,Lunch at Java,random text
+2036,1052079,9/21/2021,5130.89,Healthcare,Bank Transfer,"",London,195417.27,33.1,n,-6784.42,Paid rent,random text
+9868,1049433,11/20/2020,73828.6,Rent,Crypto,"",London,44862.36,42.66,N/A,-5031.36,Uber ride,null
+5078,1052079,2/4/2021,27985.52,Others,PayPal,Walmart,New York,118769.88,1.46,N/A,-3000.89,Uber ride,null
+2432,1048781,11/13/2020,67440.01,Entertainment,Bank Transfer,Walmart,London,126790.99,64.7,No,9741.85,Uber ride,null
+4406,1049433,5/4/2020,80822.35,Shopping,cash,Target,Nairobi,71491.32,85.59,No,-1362.01,Lunch at Java,random text
+1780,1048781,4/20/2020,45629.53,Bills,cash,"",Tokyo,111814.45,94.04,y,125.74,Paid rent,null
+4940,1049078,3/13/2020,91563.09,Education,PayPal,Walmart,"",168106.59,46.76,n,-6844.58,Uber ride,random text
+8010,1049433,10/13/2020,85238.58,Education,PayPal,Starbucks,London,135086.23,64.64,n,4627.21,Shopping,null
+6931,1048879,5/9/2021,44207.68,Others,Credit card,Amazon,New York,74441.23,1.62,Yes,6743.81,Lunch at Java,random text
+9647,1048781,12/14/2021,40704.85,Bills,M-Pesa,Target,"",110295.56,65.06,N/A,4394.61,Shopping,null
+8939,1049433,9/20/2020,38511.13,Healthcare,Bank Transfer,Starbucks,Nairobi,194062.38,69.74,null,6622.7,Lunch at Java,random text
+7989,1049433,9/25/2020,49573.4,Shopping,Bank Transfer,Starbucks,Nairobi,14368.46,54.06,n,8330.01,Lunch at Java,random text
+2748,1048781,9/27/2021,15544.34,Rent,Debit Card,Target,"",21243.21,7.42,y,8277.25,Uber ride,null
+2891,1048781,1/21/2020,70421.24,Shopping,Credit card,"","",36785.33,17.57,"",710.82,Lunch at Java,null
+8318,1049433,8/21/2021,95632.99,Healthcare,Debit Card,Starbucks,London,66171.0,36.47,n,-8174.07,Paid rent,null
+8170,1048879,1/3/2021,40860.75,Shopping,Credit card,Amazon,London,123860.74,3.91,y,1415.42,Lunch at Java,null
+8607,1049078,3/15/2021,72868.39,Rent,Bank Transfer,Walmart,New York,66155.15,83.92,No,2432.75,Lunch at Java,random text
+3086,1049433,5/18/2020,92087.21,Transport,Credit card,Target,London,23164.39,75.36,Yes,-6682.44,Shopping,null
+7035,1052079,6/6/2021,54987.25,Rent,PayPal,Walmart,"",20938.49,90.01,N/A,9254.9,Lunch at Java,random text
+3591,1049433,1/16/2021,37344.36,Healthcare,Debit Card,Amazon,New York,74043.15,99.35,"",2064.48,Shopping,random text
+4423,1048879,6/18/2020,65395.01,Food,cash,"","",93565.17,52.91,y,8888.23,Uber ride,null
+4213,1048879,3/13/2020,81510.02,Transport,PayPal,Target,London,26001.29,14.45,"",-6941.67,Lunch at Java,random text
+8906,1052079,1/18/2020,25863.94,Entertainment,PayPal,Amazon,Nairobi,171745.26,41.59,N/A,6984.73,Uber ride,random text
+1339,1048781,1/27/2021,23340.75,Shopping,Credit card,"",New York,199737.3,17.82,y,9935.45,Shopping,null
+6383,1048879,7/24/2020,98240.24,Food,M-Pesa,"",London,163353.58,30.48,Yes,5267.55,Paid rent,null
+1283,1048781,5/13/2021,67461.22,Healthcare,cash,Walmart,Nairobi,56155.56,78.73,Yes,-6243.25,Lunch at Java,random text
+8149,1048781,7/8/2020,55832.82,Entertainment,Debit Card,Amazon,Tokyo,50796.18,28.85,null,3032.47,Shopping,null
+8336,1048781,7/16/2020,37338.42,Entertainment,Debit Card,Starbucks,New York,184235.46,96.92,N/A,2438.43,Lunch at Java,random text
+9107,1052079,8/9/2021,86793.37,Transport,Debit Card,Walmart,"",75484.2,21.55,null,-1187.68,Paid rent,random text
+5584,1049078,9/24/2020,65839.27,Education,cash,"",New York,115952.66,23.08,"",9335.3,Paid rent,random text
+5599,1052079,11/11/2021,41725.31,Food,Crypto,Amazon,New York,180473.82,45.6,No,-8398.04,Paid rent,random text
+9869,1049433,5/23/2021,37924.48,Shopping,Debit Card,Target,"",100786.08,84.81,"",-3391.65,Shopping,random text
+8415,1048879,9/7/2020,67860.02,Bills,PayPal,Target,Tokyo,10226.63,13.06,No,9874.13,Shopping,random text
+7466,1048879,10/21/2020,29890.59,Transport,Bank Transfer,Amazon,London,194808.46,0.07,y,7042.14,Lunch at Java,random text
+9644,1049433,1/4/2020,34471.01,Transport,Bank Transfer,Walmart,Tokyo,106262.71,29.04,No,9065.59,Lunch at Java,null
+5422,1048781,1/14/2021,18822.57,Food,cash,Walmart,New York,69161.74,16.14,n,-817.24,Lunch at Java,random text
+4679,1048879,8/31/2021,38231.24,Entertainment,Crypto,Walmart,"",34545.15,66.39,null,3271.35,Uber ride,random text
+4122,1048879,1/25/2021,88397.47,Healthcare,M-Pesa,Target,Tokyo,84755.07,37.87,y,1787.68,Paid rent,null
+8294,1048879,3/15/2021,61043.09,Transport,cash,"",London,150958.48,6.71,null,-5062.18,Shopping,null
+7778,1049433,3/1/2020,28134.37,Others,PayPal,"","",156472.63,33.05,n,5315.54,Shopping,random text
+8719,1048879,7/29/2021,49539.61,Transport,Bank Transfer,Target,Nairobi,164634.74,38.73,N/A,9921.87,Shopping,null
+1442,1049078,5/12/2021,20435.63,Others,Credit card,Amazon,Nairobi,69882.36,90.35,n,3237.37,Shopping,random text
+2474,1052079,8/13/2021,94647.63,Shopping,Crypto,Starbucks,New York,130003.98,76.4,y,-2502.23,Lunch at Java,random text
+5276,1048781,10/26/2020,38151.19,Others,Bank Transfer,Amazon,Nairobi,99707.23,11.88,y,-1250.83,Uber ride,random text
+1041,1052079,9/4/2021,66172.49,Entertainment,Crypto,Walmart,New York,84890.31,26.65,n,-5533.07,Uber ride,null
+4900,1052079,4/19/2021,97996.79,Transport,Debit Card,Walmart,London,164588.17,60.15,y,-8187.64,Lunch at Java,null
+3113,1049078,7/9/2020,17485.29,Entertainment,cash,Walmart,New York,111567.19,9.76,null,-1561.29,Shopping,null
+7845,1048781,5/8/2021,78110.92,Others,M-Pesa,Starbucks,London,52289.64,97.19,"",-8223.93,Uber ride,random text
+4604,1049433,3/13/2020,54622.44,Rent,Debit Card,Amazon,Tokyo,102345.57,65.14,No,-2804.0,Paid rent,null
+6736,1049433,2/4/2021,68720.89,Entertainment,PayPal,Target,New York,16153.0,65.83,null,-2087.44,Paid rent,random text
+3040,1048879,4/15/2020,29306.47,Food,M-Pesa,"",London,190102.04,18.23,"",1511.42,Lunch at Java,random text
+8131,1049078,7/30/2020,29904.09,Transport,PayPal,Walmart,Nairobi,13816.78,56.11,"",6872.97,Uber ride,null
+3865,1049078,3/10/2020,77780.55,Education,Crypto,Walmart,New York,77875.1,66.01,"",-7679.84,Shopping,random text
+2277,1048879,12/3/2020,13708.2,Entertainment,Credit card,Starbucks,Tokyo,186591.43,14.73,"",-2275.81,Shopping,null
+5284,1048781,10/21/2020,4784.96,Transport,M-Pesa,Target,London,187532.51,67.63,"",-7966.59,Paid rent,random text
+7920,1052079,2/1/2021,8468.53,Education,Crypto,Amazon,New York,43529.29,77.64,N/A,2137.6,Lunch at Java,random text
+7159,1049433,8/17/2020,37756.07,Healthcare,PayPal,Walmart,Tokyo,54197.91,50.03,N/A,-208.47,Lunch at Java,random text
+3716,1049078,12/12/2020,84534.9,Rent,Credit card,Amazon,Tokyo,98047.19,25.14,N/A,5175.44,Shopping,null
+3305,1049078,9/8/2020,66378.19,Healthcare,Bank Transfer,Amazon,New York,127897.84,1.03,N/A,8290.52,Lunch at Java,random text
+8324,1052079,12/6/2020,15483.02,Shopping,cash,Target,New York,73661.97,84.92,null,4947.54,Lunch at Java,null
+3440,1049078,11/2/2020,80623.08,Bills,M-Pesa,Amazon,Tokyo,95970.86,12.11,null,-8902.76,Uber ride,random text
+3682,1048781,3/30/2020,40881.77,Rent,M-Pesa,Target,Tokyo,109170.43,34.89,null,-260.92,Lunch at Java,random text
+9046,1049078,10/31/2020,45454.05,Transport,Debit Card,Walmart,Nairobi,190227.21,31.77,N/A,715.2,Shopping,random text
+1959,1049078,7/26/2020,22352.44,Rent,cash,Walmart,New York,67182.63,87.63,"",7305.36,Shopping,random text
+5806,1048879,4/9/2021,32830.65,Others,PayPal,Walmart,New York,114020.69,64.46,Yes,4773.34,Lunch at Java,random text
+1364,1049078,4/29/2020,23587.55,Healthcare,Credit card,"","",19913.61,10.71,y,8177.68,Shopping,null
+2240,1052079,6/22/2020,13647.88,Transport,cash,Amazon,Tokyo,117560.31,17.9,y,6813.16,Uber ride,random text
+6906,1049433,12/7/2021,67297.05,Transport,cash,Starbucks,Tokyo,62241.46,90.81,n,9764.66,Uber ride,random text
+1869,1048879,9/18/2020,168.47,Food,Credit card,Amazon,Nairobi,35695.71,88.25,n,5870.07,Lunch at Java,null
+4710,1049078,3/12/2021,78955.72,Rent,PayPal,Amazon,"",11698.44,40.12,Yes,1264.44,Lunch at Java,null
+6565,1052079,8/25/2020,94449.02,Healthcare,M-Pesa,Walmart,"",15916.69,6.54,y,-403.91,Shopping,random text
+5595,1048781,5/6/2021,4110.18,Education,M-Pesa,Starbucks,"",124712.16,95.49,No,-8268.75,Paid rent,random text
+6694,1049078,9/13/2021,52153.3,Transport,Credit card,Target,New York,25935.85,79.41,y,-3476.98,Lunch at Java,null
+5417,1049078,10/19/2020,57951.84,Education,Bank Transfer,"",London,160367.12,24.03,N/A,-6838.58,Shopping,random text
+2616,1048781,3/6/2021,25471.57,Rent,Crypto,Amazon,"",175881.63,29.29,null,9688.67,Uber ride,random text
+1463,1052079,6/7/2020,10477.16,Shopping,Bank Transfer,Walmart,London,118051.04,36.19,No,9249.32,Uber ride,null
+5230,1048879,11/19/2020,32314.76,Others,PayPal,"",Nairobi,173248.24,89.02,n,-5680.93,Paid rent,null
+3617,1048879,4/20/2020,49016.42,Transport,Credit card,Starbucks,Nairobi,14592.18,4.61,n,9034.19,Lunch at Java,null
+4804,1048879,5/29/2021,73574.99,Healthcare,Debit Card,"",New York,147214.55,40.03,y,5683.41,Paid rent,random text
+2132,1052079,9/27/2021,91382.51,Food,M-Pesa,Starbucks,Tokyo,154972.74,51.97,N/A,-1754.78,Lunch at Java,null
+2231,1049433,12/13/2021,46567.52,Bills,Bank Transfer,Starbucks,"",73441.35,34.23,y,701.04,Paid rent,null
+8689,1048879,7/24/2021,11092.04,Shopping,Bank Transfer,Target,London,173069.96,39.73,N/A,8395.47,Lunch at Java,random text
+7397,1048781,3/4/2021,72599.28,Rent,PayPal,Target,"",176998.11,7.56,null,5793.8,Uber ride,null
+8039,1048781,10/9/2021,47666.79,Food,Crypto,Amazon,Tokyo,181434.5,49.61,y,-3563.09,Lunch at Java,random text
+6909,1049433,11/1/2021,70803.78,Rent,cash,Walmart,London,33037.01,71.35,Yes,9283.23,Shopping,null
+5976,1052079,9/12/2020,72297.63,Entertainment,M-Pesa,Target,Tokyo,190345.51,22.58,null,-7517.46,Paid rent,random text
+3918,1049433,5/18/2021,2421.26,Healthcare,Crypto,Starbucks,New York,191148.86,62.11,n,5987.91,Lunch at Java,null
+4607,1052079,4/16/2020,27637.48,Others,Debit Card,Walmart,"",163758.93,34.85,"",-2202.2,Paid rent,null
+2784,1048781,4/28/2020,88454.7,Healthcare,M-Pesa,Amazon,London,124443.56,35.45,null,-433.55,Shopping,random text
+9876,1052079,2/10/2020,59648.37,Others,Bank Transfer,"",Nairobi,176065.25,7.72,Yes,-6802.87,Uber ride,null
+2957,1049078,4/9/2021,25835.34,Food,Debit Card,Target,Tokyo,37279.74,24.04,N/A,4631.36,Lunch at Java,null
+3446,1048879,3/16/2020,50360.99,Entertainment,M-Pesa,Walmart,Nairobi,46520.57,15.49,n,-6748.35,Lunch at Java,null
+6669,1052079,11/27/2020,15276.38,Education,PayPal,Amazon,"",166824.53,47.66,null,-9218.75,Paid rent,null
+7869,1049078,2/28/2021,66540.78,Shopping,M-Pesa,Starbucks,Nairobi,162325.09,97.08,"",4002.91,Uber ride,random text
+4645,1048879,8/4/2021,14060.61,Rent,Debit Card,Amazon,Tokyo,138082.51,75.93,Yes,691.15,Lunch at Java,random text
+3466,1048781,10/31/2021,35503.49,Entertainment,cash,"","",30686.58,0.8,null,-3739.69,Shopping,null
+3152,1049433,2/11/2020,74660.59,Rent,PayPal,Amazon,New York,155456.56,63.47,n,1989.3,Uber ride,null
+6265,1048879,2/20/2021,80609.81,Entertainment,M-Pesa,"",Tokyo,79247.75,58.2,No,7024.62,Lunch at Java,random text
+3700,1049433,8/21/2021,89931.02,Education,Debit Card,Walmart,Nairobi,70206.89,91.54,Yes,4959.99,Uber ride,null
+6878,1049433,2/24/2020,70088.79,Transport,PayPal,"",London,153079.8,45.74,null,4531.02,Paid rent,null
+3694,1052079,5/22/2020,86147.91,Others,Bank Transfer,Walmart,"",124886.02,60.93,null,-5740.98,Uber ride,null
+5393,1048879,8/21/2021,24622.49,Rent,cash,Starbucks,New York,33552.26,44.05,n,1832.28,Paid rent,random text
+3334,1052079,7/30/2020,92908.63,Rent,Debit Card,"",Nairobi,24391.7,27.03,y,6949.03,Lunch at Java,null
+9026,1048879,6/1/2021,28439.65,Bills,Debit Card,Amazon,Nairobi,141335.05,79.85,Yes,3135.56,Shopping,null
+7976,1049078,11/7/2021,15455.08,Bills,cash,Walmart,New York,70216.71,99.92,n,-2648.4,Shopping,null
+7399,1048879,2/15/2021,29398.83,Bills,cash,Walmart,Tokyo,175170.35,52.48,"",8908.5,Shopping,random text
+1375,1048879,7/1/2021,21322.12,Food,PayPal,Amazon,Nairobi,34515.33,16.73,N/A,3904.49,Uber ride,random text
+7196,1049078,7/20/2020,57966.67,Transport,PayPal,Target,Tokyo,128884.23,93.89,N/A,-6821.97,Uber ride,null
+8490,1049433,5/8/2021,50453.41,Education,Credit card,Starbucks,"",62033.6,89.21,n,-9438.79,Paid rent,random text
+2868,1048879,4/26/2021,27342.71,Education,Bank Transfer,Walmart,"",145622.66,87.67,Yes,5782.63,Lunch at Java,random text
+9604,1052079,9/6/2021,67436.72,Rent,Crypto,Target,Tokyo,178579.46,77.71,Yes,9623.45,Paid rent,null
+1606,1048879,1/16/2021,65013.91,Transport,Debit Card,Target,Nairobi,58983.45,74.79,null,6613.62,Uber ride,null
+6069,1052079,1/16/2020,27116.02,Entertainment,Credit card,Amazon,Tokyo,69254.21,44.41,N/A,4209.76,Paid rent,random text
+8468,1048781,7/2/2021,54845.73,Food,Credit card,Starbucks,London,195099.51,46.88,n,1706.87,Lunch at Java,random text
+2380,1049433,8/25/2020,11104.24,Healthcare,Bank Transfer,Walmart,London,53642.18,46.9,null,8463.53,Uber ride,random text
+7943,1049078,4/29/2021,96634.1,Food,Bank Transfer,"",New York,32823.98,93.17,null,1017.95,Shopping,null
+8589,1048879,3/22/2020,99344.98,Entertainment,Crypto,Walmart,"",44130.27,74.75,Yes,9468.86,Lunch at Java,random text
+3416,1049078,7/18/2021,45493.55,Bills,Crypto,Starbucks,London,139431.15,52.27,null,9998.84,Shopping,random text
+9623,1049078,3/14/2021,53769.66,Others,Crypto,"",New York,131390.29,83.7,Yes,-3306.75,Uber ride,null
+3650,1049433,5/19/2020,1843.23,Others,Crypto,Starbucks,Tokyo,119560.85,59.93,n,4152.91,Lunch at Java,random text
+2696,1048781,9/4/2021,48339.15,Rent,PayPal,Starbucks,New York,135747.8,65.01,N/A,8250.97,Shopping,random text
+5498,1048781,3/15/2021,42823.21,Transport,Bank Transfer,Walmart,"",88080.63,11.02,N/A,-5084.18,Lunch at Java,null
+3113,1052079,4/21/2021,73114.37,Bills,M-Pesa,Starbucks,Nairobi,81272.35,41.71,No,-824.7,Shopping,null
+8103,1048879,7/27/2021,60818.65,Others,cash,"",Tokyo,74322.24,38.4,Yes,7362.57,Lunch at Java,null
+6844,1049078,3/16/2020,28772.68,Others,Debit Card,"",London,79191.99,28.73,y,-7900.96,Shopping,null
+8255,1048781,7/21/2021,88563.24,Healthcare,Bank Transfer,Target,London,16365.24,52.39,N/A,-8784.6,Uber ride,null
+6426,1048781,5/12/2021,86708.78,Shopping,Crypto,Walmart,London,183021.27,66.46,"",3942.86,Lunch at Java,random text
+3981,1049078,11/12/2021,17008.03,Food,Bank Transfer,Starbucks,New York,10222.57,46.29,Yes,9979.93,Paid rent,random text
+5525,1048781,10/7/2020,63168.3,Food,Bank Transfer,Starbucks,London,109871.7,24.19,"",2604.11,Uber ride,null
+4882,1049433,5/3/2021,37048.24,Transport,PayPal,"",London,75415.24,24.6,No,-4836.2,Uber ride,random text
+8222,1048879,7/15/2021,34862.58,Transport,cash,Walmart,"",82289.21,87.51,N/A,8025.48,Lunch at Java,null
+9950,1049433,12/5/2021,61183.3,Food,Credit card,"",Tokyo,169981.29,74.31,Yes,667.18,Lunch at Java,null
+3157,1048781,6/30/2020,34757.54,Education,Bank Transfer,Walmart,Tokyo,82575.31,22.16,null,5519.31,Paid rent,random text
+9810,1052079,9/1/2020,20903.72,Shopping,Debit Card,Starbucks,Nairobi,86233.05,44.37,Yes,-570.81,Shopping,random text
+7845,1052079,9/22/2020,55458.47,Education,M-Pesa,Starbucks,London,179289.33,81.05,null,-5724.62,Uber ride,random text
+3512,1048879,3/1/2020,57779.76,Transport,Credit card,Walmart,Nairobi,51110.46,61.67,Yes,-8013.91,Uber ride,random text
+4022,1049078,12/30/2020,55243.73,Rent,Bank Transfer,Amazon,Nairobi,94699.12,15.97,y,1802.81,Shopping,random text
+4453,1052079,7/18/2021,6935.26,Healthcare,Debit Card,Starbucks,New York,12231.25,6.35,"",81.96,Shopping,null
+2581,1048781,3/2/2020,88260.28,Others,M-Pesa,Walmart,"",148133.83,88.96,Yes,-6591.93,Paid rent,null
+7993,1048781,4/27/2021,1042.52,Transport,Bank Transfer,Amazon,New York,160832.17,63.46,n,2364.2,Lunch at Java,null
+8908,1049078,10/23/2021,58214.55,Shopping,Debit Card,Amazon,Nairobi,155892.31,5.31,No,117.82,Uber ride,random text
+2796,1049433,12/18/2021,78431.33,Entertainment,Credit card,Amazon,Nairobi,165384.6,4.06,y,7548.84,Shopping,random text
+1216,1049433,6/21/2021,92404.68,Shopping,Debit Card,Amazon,Tokyo,149860.29,22.54,Yes,-9344.32,Uber ride,random text
+5925,1048879,2/3/2021,98445.43,Others,cash,Starbucks,Tokyo,176027.96,60.77,n,771.89,Uber ride,null
+9612,1049433,9/22/2021,663.86,Rent,Bank Transfer,Amazon,New York,50778.88,95.03,Yes,7867.64,Uber ride,random text
+2136,1048879,2/4/2021,18016.3,Education,Credit card,Starbucks,Tokyo,85851.96,25.24,Yes,2445.8,Shopping,random text
+2462,1049078,1/30/2020,50825.92,Transport,Debit Card,Amazon,"",28310.79,27.72,n,5015.18,Shopping,random text
+5626,1048781,10/5/2021,95863.99,Others,Debit Card,Target,London,180401.36,5.75,n,7625.46,Lunch at Java,null
+7674,1049433,12/2/2021,8482.7,Others,PayPal,Target,New York,71856.18,0.03,No,-6464.5,Uber ride,null
+7205,1049078,5/17/2021,79316.21,Healthcare,Credit card,Amazon,Tokyo,159064.4,64.81,No,-5725.38,Uber ride,null
+2169,1049433,4/9/2020,28059.54,Bills,Crypto,Amazon,Tokyo,95936.28,15.75,N/A,7820.84,Shopping,random text
+6189,1049433,5/28/2020,67000.77,Rent,Crypto,"",Tokyo,28528.26,11.34,N/A,2630.72,Shopping,random text
+9510,1052079,3/1/2020,39729.74,Food,Bank Transfer,Walmart,"",174881.07,89.35,No,7592.66,Shopping,null
+4053,1049078,9/16/2020,56623.97,Education,Crypto,"","",185326.68,28.95,n,-4516.98,Paid rent,random text
+7547,1048879,12/21/2021,23716.05,Others,M-Pesa,"",Nairobi,19467.74,84.9,y,-3623.95,Uber ride,random text
+7696,1048879,2/7/2021,50675.53,Entertainment,cash,Target,Tokyo,57016.79,33.8,null,111.79,Uber ride,null
+5248,1049078,4/20/2021,26603.65,Others,PayPal,Walmart,Tokyo,121317.19,70.67,Yes,-8053.87,Shopping,random text
+2340,1048781,12/28/2020,79240.66,Transport,PayPal,Starbucks,London,159897.17,88.25,n,-2043.9,Lunch at Java,null
+2066,1049433,4/26/2020,51945.74,Bills,M-Pesa,Target,Tokyo,70562.59,73.05,y,695.28,Uber ride,null
+5351,1048781,11/30/2020,49243.08,Shopping,PayPal,"",Nairobi,68549.74,71.72,"",-974.46,Lunch at Java,random text
+5138,1052079,12/13/2021,64750.0,Entertainment,M-Pesa,Walmart,New York,166470.95,67.17,Yes,7763.89,Lunch at Java,null
+8829,1049433,1/7/2021,38123.8,Shopping,Bank Transfer,Starbucks,Nairobi,24025.32,50.71,Yes,-9549.55,Paid rent,null
+7157,1048879,11/7/2021,37212.47,Others,M-Pesa,Amazon,New York,104363.49,79.89,Yes,-5138.55,Lunch at Java,random text
+4170,1048781,12/1/2021,57145.48,Others,Debit Card,Amazon,Nairobi,71630.82,35.8,Yes,-2431.39,Paid rent,random text
+9848,1049078,11/27/2021,81879.92,Others,M-Pesa,Amazon,"",14482.82,2.19,No,662.35,Uber ride,null
+4031,1048879,4/29/2020,29267.07,Healthcare,cash,Target,New York,82490.99,70.52,No,4487.81,Paid rent,null
+2132,1049078,8/28/2020,60597.06,Others,M-Pesa,Starbucks,London,186361.43,44.03,n,242.47,Lunch at Java,random text
+6907,1049433,2/4/2020,50614.51,Others,Debit Card,Walmart,London,165961.52,99.32,n,-5481.26,Shopping,null
+3512,1049078,8/20/2021,47592.97,Healthcare,Bank Transfer,Starbucks,London,196783.48,62.22,N/A,-4068.27,Shopping,null
+7327,1049078,9/30/2020,2352.67,Food,Crypto,Starbucks,New York,148647.78,33.7,"",7019.28,Uber ride,null
+1501,1049078,2/23/2020,26886.82,Food,Credit card,Walmart,"",198315.81,5.25,No,6129.32,Paid rent,null
+8139,1048879,1/16/2020,84243.38,Transport,Crypto,Amazon,London,186920.23,69.7,y,-3202.74,Uber ride,null
+8566,1048879,11/26/2021,22049.61,Education,Bank Transfer,Starbucks,Tokyo,178018.01,39.53,Yes,1181.83,Shopping,random text
+4705,1052079,12/4/2021,90221.94,Entertainment,Credit card,Amazon,Tokyo,164806.35,95.72,Yes,-9870.83,Lunch at Java,random text
+4329,1048781,9/4/2021,45775.1,Bills,cash,Walmart,"",87621.9,59.99,Yes,-7427.09,Shopping,random text
+3404,1049078,6/19/2020,87711.27,Bills,Bank Transfer,Walmart,New York,29858.82,41.5,n,8847.48,Lunch at Java,random text
+6706,1052079,6/5/2021,64947.03,Shopping,PayPal,Target,New York,113477.21,39.44,y,5798.09,Paid rent,null
+6721,1048879,11/6/2021,30772.24,Shopping,PayPal,Starbucks,Tokyo,68342.22,77.14,"",7409.15,Paid rent,null
+4486,1048781,3/27/2021,33065.3,Rent,Bank Transfer,Starbucks,"",92554.08,39.79,n,-8919.68,Paid rent,null
+8277,1048879,8/13/2021,50540.03,Healthcare,Debit Card,"",New York,52496.33,68.7,y,-2473.99,Shopping,random text
+5106,1049078,5/15/2020,91124.59,Shopping,PayPal,Walmart,New York,13457.6,27.55,No,-7682.55,Paid rent,null
+1112,1048879,9/14/2021,72157.86,Others,Debit Card,"",London,182930.99,20.2,No,-8628.18,Uber ride,null
+1774,1049433,12/20/2020,82448.49,Education,PayPal,Target,London,147123.88,97.27,N/A,-6220.48,Lunch at Java,null
+8422,1049078,8/16/2020,76233.63,Rent,PayPal,Walmart,London,130578.22,20.99,Yes,-9461.3,Uber ride,null
+4778,1052079,4/11/2020,55761.79,Education,PayPal,"",London,80099.65,44.49,null,-2802.8,Shopping,random text
+4437,1048781,10/30/2020,83406.08,Shopping,Credit card,Target,Nairobi,156194.37,52.95,"",7978.02,Paid rent,random text
+6595,1048781,8/10/2020,43729.58,Food,PayPal,Amazon,New York,117687.6,0.03,N/A,9704.4,Lunch at Java,random text
+5389,1048879,11/9/2021,6558.4,Healthcare,Credit card,"",Nairobi,53605.16,43.44,N/A,3050.66,Uber ride,random text
+1080,1052079,4/30/2021,3709.12,Others,M-Pesa,Starbucks,Nairobi,43514.84,43.53,null,2505.24,Lunch at Java,random text
+9946,1052079,3/12/2021,31113.67,Bills,Bank Transfer,Target,New York,50378.17,22.05,"",-4204.87,Lunch at Java,random text
+6718,1049433,11/23/2020,94962.59,Transport,cash,Starbucks,"",21532.51,36.25,n,-1549.2,Uber ride,random text
+3180,1048879,5/5/2021,60824.23,Entertainment,PayPal,Starbucks,Tokyo,186492.4,52.38,N/A,8419.65,Paid rent,null
+5549,1048879,7/10/2020,10278.1,Rent,cash,"",Nairobi,136255.18,17.28,No,4621.51,Paid rent,random text
+1271,1048781,8/12/2020,81482.71,Shopping,Credit card,Amazon,Nairobi,17571.69,79.99,y,1094.51,Uber ride,null
+9873,1052079,8/3/2020,76069.96,Education,M-Pesa,Target,Nairobi,108300.56,82.49,Yes,6972.05,Paid rent,random text
+6637,1049078,7/10/2021,53197.43,Healthcare,cash,Starbucks,New York,127852.07,44.16,null,-1940.05,Shopping,null
+2377,1049433,10/27/2020,85954.21,Education,cash,Walmart,Tokyo,109520.19,76.8,"",9414.5,Paid rent,random text
+3505,1049433,4/6/2020,41780.51,Rent,Crypto,Target,"",82479.37,49.74,null,-7557.33,Uber ride,random text
+3050,1048879,4/19/2021,48204.38,Others,Crypto,Target,New York,163655.0,64.89,Yes,-7251.29,Lunch at Java,null
+4565,1052079,5/25/2021,25977.39,Education,PayPal,Walmart,New York,162293.11,95.16,"",5925.59,Uber ride,null
+6578,1048879,9/3/2020,46186.25,Healthcare,Credit card,Walmart,New York,162180.68,40.28,No,576.06,Lunch at Java,null
+1579,1049078,4/25/2021,15132.03,Healthcare,cash,Walmart,"",164644.93,98.51,No,-9247.25,Paid rent,null
+9520,1048781,2/15/2021,39207.75,Education,Credit card,Starbucks,London,13281.57,98.88,null,-2283.23,Lunch at Java,random text
+8571,1048879,7/20/2021,38248.26,Bills,Crypto,Starbucks,Tokyo,190982.29,93.37,Yes,3389.47,Uber ride,random text
+4857,1048781,12/14/2021,81978.54,Healthcare,PayPal,Walmart,New York,164410.87,33.4,Yes,-4689.49,Shopping,random text
+4871,1048879,11/13/2021,30275.68,Transport,PayPal,Walmart,New York,58271.36,47.56,N/A,-3681.16,Lunch at Java,random text
+1432,1049433,2/2/2020,40739.72,Others,Debit Card,Target,Nairobi,14855.36,29.71,N/A,5561.15,Uber ride,null
+7571,1049433,8/24/2021,58467.16,Food,Credit card,"",Nairobi,160131.12,61.54,y,-459.56,Lunch at Java,random text
+6638,1049078,3/22/2021,28523.65,Entertainment,M-Pesa,"",New York,140980.35,79.63,"",-8296.23,Shopping,null
+1723,1049078,10/2/2021,51129.5,Food,Bank Transfer,Target,London,53957.21,48.69,null,-9900.97,Paid rent,null
+6608,1049433,6/27/2020,54917.59,Food,Crypto,Walmart,Nairobi,88142.59,9.57,No,-8360.43,Uber ride,random text
+4606,1049433,10/7/2020,49253.29,Food,PayPal,"","",122268.32,1.38,No,2721.13,Uber ride,random text
+1754,1052079,3/18/2021,5435.08,Rent,PayPal,Starbucks,"",120358.29,90.23,n,-2759.73,Lunch at Java,null
+4441,1048879,1/2/2020,87905.33,Bills,cash,Walmart,"",199861.8,29.77,"",3616.81,Paid rent,random text
+9333,1052079,9/28/2020,60161.41,Bills,Bank Transfer,"",New York,95233.27,38.63,N/A,-4023.64,Paid rent,null
+5408,1052079,3/15/2021,57337.44,Food,cash,"","",89317.4,1.81,null,-6439.72,Uber ride,random text
+9064,1048781,3/4/2020,20868.05,Bills,M-Pesa,Target,Tokyo,112017.11,92.76,N/A,-6018.9,Shopping,null
+8900,1048781,5/26/2021,32846.82,Food,cash,Target,London,102165.34,37.24,n,3081.03,Shopping,random text
+9075,1048781,9/3/2020,46497.73,Food,M-Pesa,Walmart,Nairobi,43643.3,13.42,y,-1711.79,Lunch at Java,random text
+3858,1049433,10/21/2020,34380.22,Bills,Crypto,Starbucks,Nairobi,111545.2,58.42,n,7382.14,Lunch at Java,null
+9974,1048879,7/5/2021,23779.4,Others,cash,Target,Nairobi,14562.11,22.9,null,-5521.54,Shopping,null
+6257,1048781,11/8/2020,6866.92,Others,Crypto,Starbucks,Tokyo,92875.26,1.21,null,-4184.69,Lunch at Java,null
+2260,1048879,6/27/2021,26758.44,Education,Credit card,Walmart,New York,161459.43,47.72,N/A,-4145.26,Paid rent,random text
+6601,1049433,6/28/2020,73289.83,Others,Debit Card,Amazon,"",197258.61,10.24,n,-829.76,Uber ride,null
+6711,1048879,11/15/2021,29396.38,Others,M-Pesa,Target,Nairobi,93249.64,2.7,Yes,-9030.07,Shopping,random text
+2199,1048879,8/28/2021,94066.01,Bills,Credit card,"",Tokyo,77291.44,52.08,N/A,-2421.03,Uber ride,random text
+8692,1048781,6/28/2020,36276.11,Education,Crypto,Starbucks,Tokyo,153629.99,29.57,null,2273.39,Shopping,null
+7806,1048879,12/13/2020,81721.49,Entertainment,Debit Card,Starbucks,New York,144522.14,26.34,Yes,8439.33,Shopping,random text
+4588,1052079,8/31/2020,47443.23,Shopping,Debit Card,Target,Nairobi,164532.65,11.65,null,-7576.68,Lunch at Java,null
+9497,1049078,11/5/2020,71965.56,Shopping,Credit card,Walmart,New York,129768.13,57.11,y,-1442.56,Uber ride,random text
+3182,1048879,9/14/2020,46355.14,Healthcare,Bank Transfer,"",New York,171838.4,89.0,n,4049.11,Paid rent,random text
+7757,1049078,8/12/2020,90085.89,Shopping,Bank Transfer,Walmart,London,156938.48,33.87,y,-3720.1,Lunch at Java,random text
+1344,1049433,4/27/2021,72214.65,Transport,Debit Card,"","",86551.75,95.93,"",-7020.86,Uber ride,random text
+6040,1052079,5/3/2021,43502.1,Education,Crypto,Starbucks,Nairobi,122257.31,54.88,Yes,8063.04,Paid rent,random text
+8114,1052079,12/19/2021,81078.2,Entertainment,PayPal,Walmart,New York,32894.5,0.01,N/A,1363.77,Paid rent,null
+8844,1052079,7/9/2021,84720.79,Rent,Crypto,Walmart,"",149169.47,82.8,n,-7045.31,Shopping,random text
+9662,1048781,6/5/2020,96642.06,Transport,PayPal,Starbucks,Tokyo,158882.81,45.46,N/A,3002.13,Paid rent,random text
+2382,1049433,12/19/2021,41675.2,Bills,cash,"",Tokyo,46509.42,80.72,"",-8314.81,Paid rent,random text
+1317,1052079,7/27/2021,84062.41,Others,Crypto,Starbucks,Nairobi,42547.0,39.06,n,6410.64,Lunch at Java,null
+9065,1049078,5/2/2021,27182.79,Transport,cash,Amazon,Nairobi,41233.99,68.75,"",3425.88,Shopping,null
+7380,1048879,4/19/2020,788.07,Transport,Credit card,Starbucks,Nairobi,186693.95,70.44,y,6827.38,Lunch at Java,null
+9302,1049078,11/21/2020,2285.53,Transport,M-Pesa,"","",109984.38,28.27,Yes,1228.1,Lunch at Java,null
+9190,1049078,6/7/2020,91975.8,Others,Credit card,Amazon,London,198200.2,23.46,No,-4941.36,Shopping,random text
+6924,1049078,5/3/2021,25771.39,Entertainment,Bank Transfer,Target,Nairobi,153932.72,87.29,"",5312.9,Uber ride,random text
+3309,1049433,4/21/2021,12302.4,Transport,Crypto,Walmart,Tokyo,20731.04,8.17,null,8279.34,Shopping,null
+2241,1052079,3/5/2020,25647.26,Entertainment,cash,"",New York,89492.49,34.46,"",4951.83,Shopping,null
+1976,1049078,10/24/2020,30830.8,Entertainment,cash,Target,"",35814.63,59.24,n,-1967.69,Lunch at Java,null
+8668,1049433,9/27/2021,9475.02,Others,Debit Card,Walmart,"",117774.25,76.86,"",-5722.88,Lunch at Java,random text
+1725,1049078,3/17/2021,94351.82,Education,Crypto,Target,Tokyo,13138.74,80.49,Yes,500.05,Shopping,random text
+6472,1052079,3/17/2021,30182.56,Education,Credit card,Target,New York,23820.6,55.32,No,-7723.82,Paid rent,null
+8197,1052079,12/24/2020,70222.51,Others,M-Pesa,Walmart,London,103845.76,67.64,N/A,-7765.94,Uber ride,random text
+9712,1052079,10/5/2020,27384.78,Shopping,PayPal,Walmart,Tokyo,174108.34,6.05,null,4383.66,Uber ride,null
+5795,1048879,1/10/2020,30815.08,Bills,Crypto,Walmart,Tokyo,195760.67,89.94,"",7430.59,Paid rent,null
+1332,1049433,11/18/2021,77028.52,Food,PayPal,Amazon,Tokyo,38694.71,78.58,No,8402.48,Lunch at Java,null
+1764,1052079,4/14/2021,45846.95,Healthcare,M-Pesa,Walmart,London,94256.13,91.53,y,-9518.55,Lunch at Java,random text
+9362,1052079,11/28/2021,48602.46,Healthcare,PayPal,Target,Nairobi,40093.08,94.33,n,4197.07,Paid rent,null
+3451,1048879,5/2/2020,67421.51,Education,M-Pesa,Amazon,New York,63306.89,18.91,"",6162.57,Shopping,null
+3200,1049433,4/8/2021,91796.43,Bills,cash,Amazon,Nairobi,21136.8,0.53,"",8756.62,Shopping,null
+3401,1049078,4/28/2020,31229.29,Food,M-Pesa,"","",188133.14,7.75,y,-1604.15,Shopping,null
+8765,1049433,1/12/2020,78294.76,Education,Bank Transfer,Walmart,New York,18456.53,88.94,null,8144.29,Uber ride,null
+6636,1048781,10/11/2020,28928.17,Shopping,Crypto,"",Tokyo,168828.89,75.57,"",5063.71,Shopping,null
+5236,1049078,12/10/2021,70384.88,Food,M-Pesa,"",Tokyo,120210.98,77.2,No,-5213.34,Uber ride,null
+1781,1048879,5/4/2021,99415.82,Others,PayPal,"",New York,195117.88,9.25,Yes,5854.23,Lunch at Java,null
+5284,1049078,9/29/2021,26282.05,Education,Debit Card,Amazon,New York,148356.23,39.5,n,-1043.5,Paid rent,random text
+7268,1049433,3/24/2021,53841.11,Healthcare,Crypto,Walmart,"",176954.65,47.48,null,723.52,Shopping,random text
+6575,1052079,8/6/2020,70828.95,Bills,PayPal,Starbucks,New York,53427.98,87.64,No,-8320.28,Paid rent,random text
+2982,1049433,2/7/2020,7563.94,Entertainment,Bank Transfer,Walmart,Nairobi,21965.2,31.38,No,-6269.16,Lunch at Java,null
+9823,1049078,6/13/2020,52928.5,Shopping,Debit Card,Walmart,New York,105503.3,53.08,"",5582.87,Paid rent,null
+3968,1048879,4/3/2021,43058.22,Bills,M-Pesa,"",Tokyo,89960.42,95.31,n,-447.53,Paid rent,null
+7316,1048781,2/8/2020,68232.84,Transport,Credit card,"",Nairobi,111955.56,28.61,y,7445.15,Paid rent,random text
+9573,1052079,9/27/2021,70373.01,Others,Debit Card,Amazon,New York,161484.71,44.6,N/A,5244.45,Paid rent,null
+6539,1052079,4/6/2020,16268.08,Transport,Debit Card,Target,Tokyo,169164.3,71.92,n,4021.03,Shopping,null
+4423,1048781,9/19/2021,13954.54,Healthcare,Bank Transfer,Amazon,London,171742.71,80.41,"",-9977.13,Paid rent,null
+4777,1049433,11/5/2021,18795.47,Education,Debit Card,Target,London,28005.08,47.19,n,-9221.2,Paid rent,random text
+3450,1048879,4/23/2020,47471.55,Bills,cash,Starbucks,London,186884.51,67.49,y,-6408.06,Paid rent,random text
+9259,1052079,9/2/2020,63141.87,Others,Debit Card,Starbucks,Nairobi,48264.19,49.8,N/A,-7947.43,Lunch at Java,random text
+9290,1052079,5/8/2020,40521.38,Bills,Credit card,"",London,125768.36,34.67,"",7924.98,Lunch at Java,random text
+4560,1049433,2/22/2020,27503.7,Food,Crypto,Starbucks,Tokyo,153375.05,64.93,null,-7316.97,Lunch at Java,null
+5509,1049078,11/12/2021,830.42,Shopping,Crypto,Walmart,"",92173.39,86.84,null,-5936.96,Lunch at Java,random text
+5198,1048879,3/29/2020,75104.1,Healthcare,cash,Amazon,"",137744.07,25.61,y,5461.56,Paid rent,null
+8677,1049078,4/19/2020,88767.54,Rent,Credit card,Starbucks,"",30202.56,80.03,null,6347.19,Uber ride,null
+7701,1048781,6/23/2021,51765.23,Bills,Bank Transfer,"",London,119685.85,6.05,N/A,9615.38,Uber ride,null
+6923,1049433,10/11/2020,11149.68,Education,Bank Transfer,Starbucks,Tokyo,72860.93,31.94,null,3519.23,Paid rent,random text
+2956,1052079,8/20/2021,90360.87,Education,M-Pesa,Amazon,"",122439.11,29.98,No,3878.63,Paid rent,random text
+8725,1049078,12/23/2020,37115.31,Healthcare,M-Pesa,Walmart,Nairobi,80917.56,70.61,N/A,-4570.09,Uber ride,null
+8324,1048879,2/5/2020,85867.88,Entertainment,cash,Starbucks,New York,185568.34,17.55,y,6340.6,Uber ride,random text
+5628,1049433,11/18/2021,34834.82,Others,Debit Card,Starbucks,New York,101478.31,31.81,N/A,-2067.64,Shopping,null
+1618,1049433,9/14/2020,60187.75,Shopping,cash,Amazon,"",156714.99,44.96,N/A,4650.5,Lunch at Java,null
+5410,1049078,11/5/2020,82535.03,Others,Crypto,Amazon,Nairobi,54763.98,77.16,null,-1098.99,Shopping,random text
+7760,1048879,8/25/2020,31045.87,Rent,Crypto,Walmart,London,166544.74,32.09,null,2747.8,Paid rent,null
+9855,1048879,5/19/2020,48050.45,Transport,Crypto,Target,"",130958.44,25.26,Yes,5303.33,Paid rent,null
+6085,1048879,6/29/2020,71212.37,Healthcare,Bank Transfer,Walmart,Tokyo,177581.28,33.92,y,9969.82,Shopping,null
+6397,1049078,9/17/2020,38768.52,Transport,Bank Transfer,"",New York,195036.47,52.66,No,-7500.4,Uber ride,random text
+6287,1049433,9/9/2020,94421.34,Entertainment,cash,"",New York,46409.4,5.55,Yes,-5591.54,Lunch at Java,random text
+1155,1048879,1/13/2021,42335.23,Rent,Debit Card,Starbucks,"",179359.15,3.89,y,5282.38,Paid rent,random text
+2275,1049078,6/26/2020,52351.86,Entertainment,M-Pesa,"",Nairobi,101233.67,3.09,"",-7871.41,Paid rent,null
+4206,1052079,5/12/2021,24743.87,Bills,cash,Amazon,New York,84347.74,37.97,No,-7912.31,Lunch at Java,random text
+2254,1049433,6/13/2020,96921.95,Transport,Crypto,Starbucks,Tokyo,44442.7,76.22,n,-8205.89,Lunch at Java,null
+8083,1049078,8/5/2021,22005.39,Rent,cash,"",Nairobi,196220.02,68.71,y,-7284.72,Paid rent,random text
+1698,1052079,6/14/2021,55028.49,Rent,Bank Transfer,"",Nairobi,186633.94,26.07,Yes,5380.23,Paid rent,random text
+3693,1048879,3/24/2020,51301.53,Healthcare,M-Pesa,Amazon,"",37532.8,21.58,n,8742.72,Paid rent,null
+9535,1048879,3/31/2020,86197.73,Food,PayPal,Starbucks,"",119503.52,34.94,n,-2131.64,Uber ride,null
+3382,1048781,2/14/2021,85243.27,Rent,PayPal,"",Nairobi,161147.24,71.78,null,4319.26,Uber ride,null
+7388,1048781,10/25/2020,91194.02,Bills,Credit card,"","",58448.58,72.52,"",6465.45,Uber ride,null
+2471,1048879,5/29/2021,77682.21,Entertainment,Credit card,Starbucks,Tokyo,198470.76,0.31,No,2968.71,Paid rent,random text
+5017,1049078,4/16/2021,84465.37,Education,cash,Amazon,London,86687.4,36.85,"",-9187.31,Paid rent,random text
+8232,1049433,11/20/2020,89627.04,Shopping,M-Pesa,"",Tokyo,160377.1,33.2,Yes,2490.15,Uber ride,random text
+1989,1052079,9/26/2020,63137.38,Rent,Crypto,"","",91520.13,14.35,No,-2025.85,Uber ride,null
+9270,1048781,8/12/2020,99084.95,Entertainment,Credit card,Walmart,"",131798.97,39.44,"",-7860.38,Shopping,random text
+8443,1048781,8/29/2020,56286.75,Bills,Debit Card,Walmart,Tokyo,103711.08,56.7,y,5811.35,Shopping,null
+3631,1048781,9/3/2020,68720.79,Rent,M-Pesa,Amazon,London,59204.94,24.19,Yes,1775.58,Uber ride,random text
+6077,1048781,3/14/2021,69619.2,Healthcare,Bank Transfer,Starbucks,Nairobi,190885.46,74.54,"",-3218.97,Uber ride,random text
+2130,1048781,8/9/2021,37561.2,Education,Debit Card,"",Tokyo,17252.35,8.31,N/A,-4023.9,Paid rent,random text
+4439,1052079,1/19/2020,36013.97,Healthcare,PayPal,Amazon,London,69175.62,85.04,"",7478.32,Shopping,random text
+9945,1052079,7/16/2020,68249.12,Bills,Credit card,"",Tokyo,176085.23,74.28,"",198.73,Paid rent,random text
+7726,1049078,4/19/2020,54812.34,Food,Bank Transfer,Amazon,"",24854.89,89.44,null,5230.21,Shopping,null
+1518,1048781,7/1/2020,27747.97,Education,M-Pesa,Amazon,"",42457.23,66.38,"",4105.35,Paid rent,null
+7061,1048781,12/11/2021,31728.58,Transport,cash,"",Tokyo,192286.98,82.26,No,3954.66,Uber ride,random text
+4677,1052079,1/14/2021,22170.39,Rent,Debit Card,Walmart,"",34834.69,71.3,N/A,7809.93,Uber ride,null
+1994,1049078,12/11/2021,20549.44,Transport,PayPal,Amazon,London,195428.1,6.56,null,-3744.14,Paid rent,null
+4890,1052079,12/9/2020,33039.88,Food,M-Pesa,Target,Nairobi,107541.43,84.22,N/A,-7594.96,Uber ride,random text
+5362,1049078,8/13/2021,82054.96,Education,Bank Transfer,Starbucks,"",125002.04,94.95,null,-458.57,Paid rent,null
+5699,1049078,8/24/2021,21715.77,Rent,Credit card,Amazon,Nairobi,97998.11,75.56,No,-505.93,Lunch at Java,null
+4082,1049433,6/22/2021,25752.78,Transport,M-Pesa,Walmart,Tokyo,87985.61,76.14,Yes,6095.01,Uber ride,null
+8608,1049433,10/21/2020,17610.38,Healthcare,Credit card,Walmart,London,160201.28,63.7,"",-2157.8,Shopping,random text
+1965,1048781,5/1/2020,41697.44,Shopping,Bank Transfer,Walmart,"",92991.66,66.86,No,8083.61,Shopping,null
+3109,1052079,3/17/2021,23860.32,Transport,M-Pesa,Walmart,New York,158673.04,70.32,No,71.73,Uber ride,null
+3038,1048781,3/23/2020,53690.05,Food,Crypto,Starbucks,Tokyo,14250.77,62.84,No,7617.7,Lunch at Java,null
+6514,1052079,8/28/2021,14595.2,Others,Credit card,"",Nairobi,45096.0,94.7,No,-8183.18,Paid rent,random text
+2280,1049433,1/14/2020,80480.64,Shopping,Crypto,Target,"",134453.36,12.41,"",-6441.22,Uber ride,null
+7900,1049078,4/2/2021,22861.51,Others,cash,Walmart,New York,23316.08,95.44,n,-395.43,Lunch at Java,null
+7182,1048781,3/15/2021,33934.72,Food,PayPal,Amazon,"",136392.92,55.46,null,-5767.32,Shopping,random text
+9919,1048879,3/4/2020,82029.22,Food,Crypto,Starbucks,"",88608.8,97.81,null,-5961.15,Lunch at Java,null
+8441,1048781,10/29/2021,92912.56,Education,PayPal,Starbucks,"",89654.43,23.19,"",-6523.8,Uber ride,null
+4257,1048879,7/13/2021,27449.46,Transport,cash,Amazon,"",164542.05,22.69,N/A,6318.19,Uber ride,random text
+8287,1048879,9/1/2020,61606.15,Bills,Crypto,"",New York,82688.27,40.54,Yes,-5047.01,Paid rent,random text
+6878,1048781,6/14/2021,547.27,Rent,Credit card,Starbucks,Nairobi,147210.59,91.23,y,2591.41,Shopping,null
+3763,1052079,3/11/2021,46960.08,Education,PayPal,Amazon,Tokyo,93369.78,66.76,null,8405.68,Uber ride,random text
+3238,1048781,11/3/2021,13655.59,Others,Crypto,Starbucks,Tokyo,92423.9,22.46,n,7437.87,Shopping,null
+8799,1049078,12/26/2020,43698.96,Transport,Bank Transfer,"",Tokyo,125813.25,94.94,y,7262.25,Shopping,null
+1116,1049433,6/25/2021,20313.25,Food,Crypto,Amazon,New York,185998.11,66.25,Yes,4342.49,Shopping,random text
+4597,1049433,11/29/2021,65824.92,Education,M-Pesa,"",Tokyo,112456.26,30.26,null,-6520.13,Paid rent,random text
+1820,1048879,7/4/2020,69851.03,Rent,Crypto,Walmart,London,131364.62,76.55,Yes,-1320.44,Shopping,null
+6973,1048879,4/26/2020,36632.22,Others,cash,Target,Tokyo,117833.84,19.58,n,4787.74,Lunch at Java,random text
+5651,1048879,12/26/2020,70669.1,Rent,Debit Card,Walmart,"",75163.31,14.11,N/A,-3173.01,Paid rent,null
+5889,1048879,12/2/2021,19443.46,Rent,PayPal,Target,New York,97502.27,27.61,n,-262.29,Uber ride,random text
+6865,1052079,2/14/2020,67708.1,Shopping,M-Pesa,Starbucks,"",96679.84,97.54,No,8942.15,Uber ride,null
+6793,1049433,9/21/2021,30701.86,Others,cash,"",Tokyo,187676.66,19.26,Yes,5240.9,Paid rent,null
+7845,1048781,1/29/2021,23909.71,Bills,Bank Transfer,Target,New York,180164.82,11.11,y,8531.03,Lunch at Java,null
+7294,1049433,12/31/2020,80027.45,Rent,Bank Transfer,Target,New York,81338.85,5.79,n,-7572.13,Paid rent,random text
+4206,1048781,7/14/2020,98345.1,Healthcare,PayPal,Starbucks,New York,35645.88,98.23,null,1700.41,Uber ride,null
+4808,1049078,12/2/2020,49553.16,Healthcare,cash,"",New York,148662.58,43.45,null,-1792.95,Uber ride,random text
+8322,1049433,5/27/2021,34456.3,Healthcare,cash,"","",169135.26,19.44,Yes,-1136.52,Lunch at Java,random text
+8223,1049078,3/1/2021,73390.53,Healthcare,Debit Card,"","",72032.01,56.44,"",-4493.93,Paid rent,random text
+6821,1049433,2/26/2021,11389.93,Entertainment,Bank Transfer,Starbucks,Nairobi,171883.6,31.93,Yes,4425.05,Uber ride,random text
+5269,1049433,12/28/2021,23075.09,Entertainment,Crypto,Starbucks,London,154213.76,90.8,N/A,-8905.26,Lunch at Java,null
+6070,1048879,1/26/2021,49054.42,Entertainment,Crypto,Amazon,London,34042.55,29.47,No,-8050.04,Lunch at Java,null
+7893,1048879,6/7/2021,42672.74,Entertainment,PayPal,Starbucks,Tokyo,74045.64,72.05,"",-841.27,Lunch at Java,random text
+9704,1048781,5/19/2021,69050.21,Entertainment,Credit card,"",Nairobi,38750.98,53.33,y,-7789.24,Paid rent,random text
+8506,1048879,10/24/2020,79472.51,Bills,Bank Transfer,Starbucks,Nairobi,107053.48,49.51,n,-476.53,Lunch at Java,null
+3993,1048781,5/16/2021,98458.97,Bills,M-Pesa,Amazon,London,121659.61,57.41,Yes,-6810.87,Lunch at Java,random text
+2100,1049078,10/3/2020,6256.11,Others,Crypto,Walmart,Nairobi,43213.42,32.02,"",3784.05,Shopping,null
+5210,1048781,11/18/2020,72900.52,Rent,cash,Walmart,London,48531.06,25.17,Yes,9919.75,Paid rent,null
+9175,1048879,2/6/2020,75327.85,Transport,cash,Amazon,Nairobi,198360.19,90.07,No,-681.51,Shopping,random text
+8298,1049078,10/6/2020,73568.45,Shopping,Crypto,Amazon,London,165646.56,34.07,Yes,-215.82,Lunch at Java,random text
+5449,1048781,1/15/2020,77029.35,Others,Credit card,Walmart,"",183529.51,67.1,N/A,-1963.95,Lunch at Java,null
+9297,1049078,12/23/2020,63826.99,Food,cash,Starbucks,New York,82616.71,22.91,null,-7658.67,Paid rent,null
+5747,1052079,9/26/2021,71824.89,Shopping,Credit card,Amazon,"",43750.15,47.0,Yes,-6726.35,Uber ride,random text
+2389,1052079,8/23/2021,65209.41,Others,Bank Transfer,Target,"",105035.23,96.61,null,-6714.41,Lunch at Java,random text
+2181,1048781,3/28/2020,69367.22,Healthcare,Debit Card,Walmart,New York,60264.41,67.14,N/A,-4312.7,Paid rent,random text
+9334,1049433,2/6/2021,17192.05,Others,Debit Card,"",London,98226.84,4.68,y,-5062.88,Paid rent,null
+6125,1052079,6/16/2021,57489.15,Healthcare,PayPal,"",Tokyo,81730.53,43.53,"",-7083.11,Paid rent,null
+8115,1052079,12/9/2020,25879.27,Others,Credit card,Target,New York,120032.68,54.04,null,-6187.35,Paid rent,null
+7272,1049433,10/17/2020,73183.37,Healthcare,Debit Card,Walmart,"",198002.99,89.78,y,-8146.87,Paid rent,random text
+1103,1052079,6/24/2020,80752.85,Others,Credit card,Amazon,New York,55639.88,35.09,Yes,-1736.16,Lunch at Java,null
+4108,1049078,5/16/2021,71289.28,Entertainment,Debit Card,Walmart,Nairobi,78856.67,68.77,y,32.93,Shopping,null
+1760,1052079,9/6/2020,30669.12,Food,Credit card,Target,Nairobi,39076.52,52.64,null,9439.25,Lunch at Java,null
+2141,1048781,1/3/2021,83204.39,Education,M-Pesa,Target,London,95027.67,63.12,Yes,-7098.04,Shopping,random text
+2479,1049078,12/14/2021,12202.07,Entertainment,cash,Starbucks,Tokyo,52200.5,66.48,y,-3105.41,Lunch at Java,null
+7111,1049078,11/27/2020,95667.76,Rent,M-Pesa,Target,London,130572.99,85.22,N/A,4967.1,Uber ride,null
+5943,1052079,12/22/2021,61648.05,Education,M-Pesa,Starbucks,New York,133054.57,88.99,n,5708.24,Paid rent,random text
+9090,1049078,2/11/2020,90815.74,Bills,Crypto,Amazon,New York,63019.57,61.65,null,-5329.31,Paid rent,null
+1965,1048879,9/9/2021,68594.5,Food,M-Pesa,Starbucks,Tokyo,191503.47,37.21,y,-7332.88,Paid rent,random text
+2487,1048879,3/11/2021,82793.28,Others,Bank Transfer,Amazon,Tokyo,190996.75,88.17,y,9316.79,Paid rent,random text
+6435,1049433,12/18/2020,71733.15,Healthcare,PayPal,Starbucks,Tokyo,156685.2,55.56,null,6144.18,Uber ride,random text
+1621,1048781,1/20/2020,29893.02,Healthcare,Credit card,Amazon,New York,49440.18,12.36,null,8341.71,Uber ride,null
+9923,1048781,11/30/2020,21076.11,Rent,Crypto,Amazon,New York,48516.52,66.7,null,8405.59,Uber ride,null
+7470,1048781,2/18/2020,95315.39,Rent,PayPal,Amazon,New York,32737.53,81.55,Yes,4661.16,Paid rent,null
+2713,1049078,8/1/2020,16721.15,Transport,M-Pesa,Walmart,London,182906.65,7.29,n,3852.2,Uber ride,null
+6548,1049433,6/2/2020,4392.63,Transport,M-Pesa,Walmart,London,60778.34,31.94,Yes,1314.05,Uber ride,random text
+8159,1049433,11/16/2021,45753.91,Food,M-Pesa,Starbucks,New York,88951.33,80.15,"",-4174.97,Shopping,null
+8914,1048879,8/30/2021,4095.27,Healthcare,Crypto,Amazon,London,158560.18,45.76,null,-2450.93,Shopping,random text
+3788,1052079,6/9/2020,15725.78,Rent,Crypto,Target,New York,97374.38,32.7,y,4043.59,Paid rent,random text
+8574,1049078,7/3/2020,76489.81,Food,Crypto,Amazon,New York,122156.22,47.64,Yes,-7560.22,Paid rent,null
+3031,1048879,12/8/2020,74001.69,Others,Credit card,Amazon,New York,120473.5,74.3,null,-7625.94,Uber ride,random text
+4549,1048781,10/4/2021,58478.95,Food,Crypto,Starbucks,Nairobi,78927.36,16.49,No,3126.5,Paid rent,random text
+1865,1052079,11/10/2021,3847.2,Healthcare,PayPal,Target,Nairobi,179488.8,10.7,Yes,7185.87,Shopping,random text
+3710,1049433,3/5/2021,31711.77,Bills,Credit card,Walmart,London,195154.27,65.89,n,7936.33,Paid rent,null
+6866,1049433,11/15/2020,60236.05,Transport,cash,Walmart,Tokyo,40791.09,96.09,No,-87.31,Uber ride,null
+2840,1049433,8/6/2021,49418.59,Food,Credit card,Target,Tokyo,52576.67,10.66,No,-9255.33,Uber ride,null
+6371,1048879,10/28/2020,78306.77,Healthcare,Bank Transfer,Walmart,Nairobi,185037.55,94.76,Yes,-8393.64,Lunch at Java,null
+9922,1049078,3/5/2021,80404.28,Entertainment,cash,Starbucks,"",104711.28,88.79,"",3916.25,Paid rent,null
+7206,1049433,11/30/2021,93842.34,Shopping,M-Pesa,Walmart,Tokyo,24532.07,45.68,"",-1469.75,Uber ride,random text
+5583,1048879,3/21/2020,47868.25,Shopping,Credit card,"",Tokyo,130309.54,3.71,null,4722.21,Paid rent,null
+2627,1052079,11/11/2021,88222.12,Healthcare,Debit Card,Starbucks,London,187518.34,86.19,"",-9061.0,Paid rent,random text
